@@ -1,0 +1,1266 @@
+vinc 胜，征服 
+
+vict 胜，征服 
+
+form 形式，格式，形成 
+
+prehend 抓住 
+
+struct 建造 
+
+od 路 
+
+bar 长木条，障碍 
+
+bal 长木条，障碍 
+
+ban 长木条，障碍 
+
+vi 路 
+
+via 路 
+
+script 写 
+
+scrib 写 
+
+tech 技术，艺术 
+
+press 压，按 
+
+rect 正，直 
+
+flu 流 
+
+flux 流 
+
+st 立，站 
+
+sist 立，站 
+
+stat 立，站 
+
+stin 立，站 
+
+stem 立，站 
+
+sit 坐
+
+sid 坐
+
+sed 坐
+
+sess 坐 
+
+pear 生
+
+par 生 
+
+mov 移动 
+
+mob 移动 
+
+mot 移动 
+
+cover 覆盖， 掩盖 
+
+plic 倍 , 重 , 折叠
+
+ply 倍 , 重 , 折叠
+
+pli 倍 , 重 , 折叠
+
+ple 倍 , 重 , 折叠
+
+plex 倍 , 重 , 折叠
+
+plo 倍 , 重 , 折叠
+
+mus 音乐，娱乐 
+
+erg 做，工作 
+
+org 做，工作 
+
+urg 做，工作 
+
+lect 采集，读，说，法律
+ 
+lig 采集，读，说，法律
+ 
+leg 采集，读，说，法律 
+
+legis 采集，读，说，法律 
+
+nerv 神经
+
+neur 神经 
+
+path 感受
+
+pat 感受
+
+pass 感受
+
+pathy 感受
+
+feel 感受  
+
+strain 拉紧
+
+strict 拉紧
+
+stress 拉紧
+
+string 拉紧
+
+strang 拉紧
+
+vac 空 
+
+vacu 空 
+
+van 空 
+
+void 空 
+
+vain 空 
+
+ple 装满（的）
+
+plet 装满（的）
+
+pli 装满（的）
+
+ply 装满（的）
+
+plen 装满（的）
+
+medi 中间 
+
+preci 价值 
+
+prais 价值 
+
+pric 价值 
+
+priz 价值 
+
+miss 投，送，发
+ 
+mit 投，送，发 
+
+sci 知 
+
+liter 文字 
+
+sum 最高，总，拿 
+
+sumpt 最高，总，拿 
+
+spect 看
+
+speci 看
+
+spec 看
+
+spic 看
+
+spi 看
+
+spy 看
+
+seri 重要 
+
+lat 拿，持，带来，搬运 , 担负 
+
+lax 松弛，放松 
+
+simsem 相似
+ 
+simil 相似 
+
+simul 相似 
+
+sembl 相似 
+
+
+discip 法则 
+
+helic 旋 
+
+cept 拿 , 抓
+ 
+cap 拿 , 抓 
+
+capt 拿 , 抓 
+
+ceiv 拿 , 抓 
+
+ceit 拿 , 抓 
+
+cip 拿 , 抓
+ 
+cup 拿 , 抓 
+
+sert 放置 , 结合 
+
+duct 引导
+
+duc 引导 
+
+peri 试验，尝试
+
+pert 试验，尝试 
+
+scen 设置 
+
+journ 一天 
+
+circ 圆 
+
+cycl 圆 
+
+part 分，部分 
+
+ven 来
+
+vent 来 
+
+haust 抽出 
+
+tra 拖，拉，拽
+
+tract 拖，拉，拽
+
+treat 拖，拉，拽 
+
+loc 地方 
+
+urb 城市 
+
+fortun 财富 
+
+torn 转，迂回
+
+tour 转，迂回
+
+tourn 转，迂回 
+
+noc 伤害
+
+nox 伤害
+
+nui 伤害
+
+nec 伤害 
+
+proach 接近
+
+proxim 接近 
+
+gorg 吞咽 
+
+arch 统治，起始
+
+archa 统治，起始 
+
+fess 说，宣称 
+
+manu 手
+
+man 手 
+
+fasc 捆，束 
+
+viv 活
+
+vit 活
+
+veg 活 
+
+tact 接触
+
+tang 接触
+
+tag 接触
+
+ting 接触
+
+tig 接触
+
+tast 接触 
+
+liqu 液体 
+
+pand 展开
+
+pans 展开 
+
+mix 混杂 , 混合
+
+misc 混杂 , 混合
+
+mixt 混杂 , 混合 
+
+electr 电 
+
+clud 关闭
+
+clus 关闭
+
+clos 关闭
+
+clois 关闭
+
+claus 关闭
+
+clot 关闭 
+
+ag 驱使；做 
+
+act 驱使；做 
+
+ig 驱使；做 
+
+order 命令
+
+ord 命令
+
+ordin 命令
+
+ordain 命令 
+
+solv 解，松的 
+
+solu 解，松的 
+
+solut 解，松的 
+
+flagr 燃烧，火焰
+
+flam 燃烧，火焰 
+
+fac 做
+
+fec 做
+
+fic 做
+
+ton 声 , 音调
+
+tun 声 , 音调 
+
+tain 握 , 持 , 守
+
+ten 握 , 持 , 守
+
+tin 握 , 持 , 守
+
+tent 握 , 持 , 守
+
+capit 头 
+
+cap 头 
+
+cep 头 
+
+chapt 头 
+
+cip 头 
+
+chef 头 
+
+chief 头 
+
+cephal 头 
+
+ced 走
+
+ceed 走
+
+cess 走 
+
+log 言，说
+
+loqu 言，说
+
+locut 言，说 
+
+fend 打击
+
+fens 打击 
+
+cre 增长，生长，产生
+ 
+cresc 增长，生长，产生 
+
+cret 增长，生长，产生 
+
+cent 百 
+
+sign 设计 
+
+doc 教 
+
+doct 教 
+
+milit 兵 
+
+soldier 兵 
+
+centr 中心 
+
+fin 终结，末尾，界限 
+
+fan 幻影，幻象
+
+phan 幻影，幻象 
+
+hang 悬挂
+
+weigh 称量
+
+pay 花费 
+
+van 前，先 
+
+adv ance 前，先
+ 
+advant 前，先 
+
+frequen 反复
+
+frequent 反复 
+
+di 日
+
+day 日 
+
+rar 稀有 
+
+verb 字，词 
+
+anxi 紧张，不安 
+
+jur 法律
+
+jud 法律
+
+jus 法律 
+
+pun 惩罚
+
+poen 惩罚
+
+pain 惩罚
+
+penal 惩罚
+
+pent 惩罚 
+
+norm 规范，正规，正常 
+
+pn eum 肺 
+
+rad 光线 , 辐射
+
+ray 光线 , 辐射
+
+sur 确定 
+
+quest 问，求，寻 
+
+quis 问，求，寻 
+
+quir 问，求，寻 
+
+quer 问，求，寻 
+
+bronch 气管 
+
+cancer 螃蟹，癌症
+
+cancr 螃蟹，癌症 
+
+dict 言，说
+
+dic 言，说 
+
+dom 屋，统治
+
+domat 屋，统治
+
+domin 屋，统治 
+
+jec 投掷
+
+jac 投掷
+
+jet 投掷 
+
+pot 力量，能力
+
+poss 力量，能力
+
+pow 力量，能力 
+
+crim 控诉 , 罪行 
+
+crimin 控诉 , 罪行 
+
+nect 结，系
+
+nex 结，系 
+
+rat 计算，推定，理由
+
+ratio 计算，推定，理由 
+
+alesc 养育，成长
+
+alit 养育，成长
+
+olesc 养育，成长 
+
+grat 感谢
+
+grac 感谢
+
+grac 感谢
+
+gree 感谢 
+
+hor 怕 
+
+cogn 知道
+
+gno 知道 
+
+gymn 运动，体育 
+
+aud 听 
+
+class 分类，等级 
+
+pon 放置
+
+pound 放置
+
+pos 放置 
+
+orches 跳舞 
+
+phon 声音，说话
+
+phem 声音，说话
+
+fam 声音，说话
+
+phet 声音，说话
+
+fat 声音，说话 
+
+gen 出生
+
+gn 出生
+
+gener 出生
+
+gent 出生 
+
+prim 第一 
+
+prem 第一
+
+prin 第一
+ 
+pri 第一 
+
+albumo 白色 
+
+ball 抛 , 舞 , 球 
+
+balo 抛 , 舞 , 球 
+
+bol 抛 , 舞 , 球 
+
+sol 单独，太阳 
+
+cit 召唤 
+
+cite 召唤 
+
+citat 召唤 
+
+obsolesc 成长，长大
+ 
+obsolet 成长，长大 
+
+cor 心（脏）
+ 
+card 心（脏） 
+
+cour 心（脏） 
+
+art 艺术，关节 
+
+arthr 艺术，关节 
+
+temper 时间
+ 
+tempor 时间 
+
+light 光，轻，愉快 
+
+draw 画 
+
+pict 画，图片，照片 
+
+paint 画，图片，照片 
+
+dit 给 
+
+don 给 
+
+dow 给 
+
+dos 给 
+
+imag 图像
+ 
+imit 图像 
+
+serv 观看，服务，保留 
+
+serf 观看，服务，保留 
+
+real 现实 
+
+opt 采取，眼睛 
+
+ops 采取，眼睛 
+
+opi 采取，眼睛 
+
+us 使用 
+
+uti 使用 
+
+ut 使用 
+
+habit 拥有，占据，居住 
+
+hibit 拥有，占据，居住 
+
+scape 形状 
+
+graph 写，画，文字，图形
+ 
+gram 写，画，文字，图形 
+
+celebr 赞美，名望 
+
+eco 住所，经济，生态 
+
+ecu 住所，经济，生态 
+
+oce 住所，经济，生态 
+
+
+polit 城市 
+
+polic 城市 
+
+polis 城市 
+
+cosm 宇宙 
+
+nav 船，航行，海员 
+
+nau 船，航行，海员 
+
+naut 船，航行，海员 
+
+vers 转 
+
+vert 转 
+
+orb 圆 
+
+histor 叙事，历史 
+
+place 放，地方 
+
+ali 其它 
+
+all 其它 
+
+am 爱 , 情爱
+ 
+amor 爱 , 情爱 
+
+amat 爱 , 情爱 
+
+aster 星星 
+
+astr 星星 
+
+tele 远 
+
+cult 耕作 
+
+fund 底，基础 
+
+found 底，基础 
+
+reg 规则，统治 
+
+magist 掌控 
+
+master 掌控 
+
+ess 存在 
+
+esse 存在
+ 
+sent 存在 
+
+terest 存在 
+
+cad 降落 
+
+cas 降落 
+
+cid 降落 
+
+drama 戏剧 
+
+sect 切 
+
+sec 切 
+
+seg 切 
+
+cruc 十字 
+
+cruis 十字 
+
+crus 十字 
+
+crux 十字 
+
+rang 排列 , 顺序 
+
+rank 排列 , 顺序 
+
+mark 作记号，边界 
+
+marg 作记号，边界 
+
+march 作记号，边界 
+
+civ 公民，城市 
+
+cit 公民，城市 
+
+gubern 管理，统治 
+
+govern 管理，统治 
+
+parl 说，谈 
+
+sculpt 雕刻 
+
+hom 人；土地；人类；卑下；湿 
+
+hum 人；土地；人类；卑下；湿 
+
+velop 包，裹，卷 
+
+meter 计量 , 测量 
+
+metr 计量 , 测量 
+
+meas 计量 , 测量 
+
+mens 计量 , 测量 
+
+port 拿，取 
+
+
+pollut 脏 
+
+vast 空，荒废 
+
+wast 空，荒废 
+
+caus 导致，原因 
+
+cur 跑 
+
+curs 跑 
+
+cour 跑 
+
+cours 跑 
+
+latitud 宽 
+
+lati 宽 
+
+latis 宽 
+
+trop 转 
+
+equ 相等 
+
+iqu 相等 
+
+rot 轮，转 
+
+viol 力，暴力 
+
+rupt 破 
+
+terr 惊吓 
+
+damn 惩罚，伤害 
+
+demn 惩罚，伤害 
+
+camp 田野，场所 
+
+cast 投掷 
+
+spher 球，圈，层 
+
+carb 碳 
+
+oxy 尖锐，敏锐，氧 
+
+oxia 尖锐，敏锐，氧 
+
+oxic 尖锐，敏锐，氧 
+
+chem 化学 
+
+viron 环路 
+
+coast 肋骨，旁边 , 边 
+
+cost 肋骨，旁边 , 边 
+
+cern 辨别 
+
+cret 辨别 
+
+creet 辨别 
+
+cre 辨别 
+
+maj 伟大， 壮大 
+
+max 伟大， 壮大 
+
+magn 伟大， 壮大 
+
+plain 打 
+
+plaint 打 
+
+tect 掩盖，掩护 
+
+teg 掩盖，掩护 
+
+soph 智慧 
+
+honor 荣誉 
+
+hono 荣誉 
+
+honest 荣誉 
+
+tribut 给 
+
+tribu 给 
+
+mon 提醒，警告，单一，公共 
+
+term 限定，界线，末端
+ 
+termin 限定，界线，末端 
+
+commod 便利，方便 
+
+merg 沉，没 
+
+mers 沉，没 
+
+glob 球 
+
+glom 球 
+
+freeze 冷，冰冻 
+
+frig 冷，冰冻 
+
+friger 冷，冰冻 
+
+rid 笑 
+
+ris 笑 
+
+alter 改变，替换 
+
+altern 改变，替换 
+
+matr 母 
+
+metro 母 
+
+mater 母 
+
+mater 母 
+
+li 绑 
+
+lig 绑 
+
+ly 绑 
+
+leag 绑 
+
+limit 界限 
+
+limin 界限 
+
+lim 界限 
+
+mand 命令 
+
+mend 命令 
+
+car 车 
+
+char 车 
+
+clin 倾 
+
+cli 倾 
+
+cliv 倾 
+
+tach 钉，扣件 
+
+tack 钉，扣件 
+
+optim 最好的 
+
+colon 栖息 
+
+col 栖息 
+
+fare 去 
+
+ped 脚 
+
+pod 脚 
+
+patch 脚 
+
+plor 流出，哀叫，哀叹 
+
+gest 运送 
+
+gist 运送 
+
+ger 运送 
+
+mun 公共 
+
+un 整体；联合 
+
+uni 整体；联合 
+
+var 变 
+
+gress 步，走 
+
+grad 步，走 
+
+gred 步，走 
+
+gre 步，走 
+
+vol 滚，转 
+
+volv 滚，转 
+
+volt 滚，转 
+
+rud 原始，粗野 
+
+plod 爆破，鼓掌 
+
+plaud 爆破，鼓掌 
+
+plex 爆破，鼓掌 
+
+soci 同伴，联合，结合 
+
+bi 生命 
+
+bot 种植，植物 
+
+zo 动物 
+
+ori 升起 
+
+ort 升起 
+
+orig 升起 
+
+popul 人民 
+
+publ 人民 
+
+quant 量，数量 
+
+qual 性质，特征 
+
+brev 短 
+
+phys 自然，物理 
+
+ann 年 
+
+enn 年 
+
+person 人 
+
+parson 人 
+
+cav 洞，空 
+
+nat 出生 
+
+nasc 出生 
+
+naiss 出生 
+
+naiv 出生 
+
+tort 扭，拧 
+
+tor 扭，拧 
+
+monstr 显示，显现 
+
+myst 神秘 
+
+myth 神秘 
+
+claim 喊叫 
+
+clam 喊叫 
+
+fac 面部 , 正面，前额 
+
+fic 面部 , 正面，前额 
+
+front 面部 , 正面，前额 
+
+apt 适当，适应 
+
+ept 适当，适应 
+
+att 适当，适应 
+
+stinct 刺，扑灭 
+
+sting 刺，扑灭 
+
+sti 刺，扑灭 
+
+emper 命令 
+
+imper 命令 
+
+put 数，计算，考虑 
+
+count 数，计算，考虑 
+
+ident 相同 
+
+lingu 语言 
+
+cant 歌唱 
+
+cent 歌唱 
+
+chant 歌唱 
+
+chans 歌唱 
+
+sec 跟随 
+
+sequ 跟随 
+
+secut 跟随 
+
+su 跟随 
+
+fus 熔化；倾倒 
+
+fut 熔化；倾倒 
+
+fund 熔化；倾倒 
+
+found 熔化；倾倒 
+
+par 相 等 
+
+pair 相 等 
+
+per 相 等 
+
+pir 相 等 
+
+peer 相 等 
+
+fer 带来，拿，负担 
+
+nounc 说，告 
+
+nunc 说，告 
+
+add 加，加上 
+
+tempt 尝试，触摸 
+
+tent 尝试，触摸 
+
+crit 判断 
+
+cris 判断 
+
+sat 足，满，饱 
+
+satis 足，满，饱 
+
+satur 足，满，饱 
+
+vol 意志，意愿 
+
+volunt 意志，意愿 
+
+main 停驻 
+
+man 停驻 
+
+sal 盐 
+
+salt 盐 
+
+lys 分，解，溶，散 
+
+yt 分，解，溶，散 
+
+val 强 
+
+divid 分 
+
+divis 分 
+
+mort 死 
+
+mors 死 
+
+mor 死 
+
+pan 面包 
+
+cur 关心，挂念，注意 
+
+turb 骚乱，骚扰 
+
+turbul 骚乱，骚扰 
+
+roma 罗马 
+
+forc 力量，强壮 
+
+fort 力量，强壮 
+
+carn 肉 
+
+tend 伸 
+
+tens 伸 
+
+tent 伸 
+
+memor 记忆 
+
+ment 记忆 
+
+mind 记忆 
+
+par 准备 
+
+plant 种植 
+
+tir 拉，引 
+
+min 小 
+
+ultim 最后 
+
+clar 清楚，明白 
+
+clear 清楚，明白 
+
+clair 清楚，明白 
+
+pet 追求 
+
+pit 追求 
+
+peat 追求 
+
+fisc 国库 
+
+mamm 乳房 
+
+it 走 
+
+fid 相信 
+
+fi 相信 
+
+fy 相信 
+
+feder 相信 
+
+feal 相信 
+
+migr 迁移 
+
+cert 确实 
+
+firm 坚固，固定 
+
+mat 成熟 
+
+typ 打击 , 压印 
+
+mod 量器 
+
+quaint 认知 
+
+caut 仔细 
+
+hospit 客人，主人，敌人 
+
+host 客人，主人，敌人 

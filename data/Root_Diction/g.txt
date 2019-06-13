@@ -1,0 +1,887 @@
+
+1 2 3 4 5 6 
+【词根】：-ge-, -geo-
+【含义】：地球,大地
+【同源】：geographer, geographic, geographical, geography, geology
+【词根】：-gen-, -gener-, -germ-
+【含义】：生殖,出生
+【来源】：来源于原始印欧语gen-(生育)在拉丁语中产生的词汇genus(种类),gens(人种),generare(生殖),generalis(全体的,总的,普遍的)和germen(发芽,分枝)等。
+【同源】：benign, engine, engineer, engineering, gender
+【词根】：-gest-
+【含义】：携带,运输
+【来源】：来源于拉丁语动词gero, gerere, gessi, gestus(携带,运输)。
+【同源】：congest, congestion, digest, digestion, digestive
+【词根】：-gn-, -not-, -gnor-, -gnos-
+【含义】：知道
+【来源】：-gnos-来源于拉丁语动词gnosc.o, gnosc.ere, gnovi, gnotus(知道)的词干-gnosc-; -not-来源于拉丁语动词nosco, noscere, novi, not.us(知道)的过去分词词干-not-; -gnor-来源于含有否定
+【前缀】i-的拉丁语动词i.gnor.o, i.gnor.are, ignoravi, ignoratus(不知道)的词干-gnor-。这些拉丁语的词源可追溯至原始印欧语-gn-。
+【同源】：cognition, cognitive, cognize, recognise, recognition
+【词根】：-grad-, -gress-
+【含义】：步,级
+【来源】：来源于拉丁语名词gradus(步)和拉丁语动词gradior, gradi, gressus, sum(步行)。
+【同源】：centigrade, degrade, downgrade, gradation, grade
+【词根】：-gram-, -graph-
+【含义】：写,画
+【来源】：-gram-来源于希腊语名词gramma(写下的东西),其在希腊语中派生了形容词grammatikos(字母的),名词化为grammatike,进入拉丁语为grammatica,古法语为gramaire,盎格鲁-诺曼底语为gramere。-graph-来源于希腊语graphein(写,画)。
+【同源】：cryptogram, diagram, electrocardiogram, epigram, gram
+【词根】：-grat-
+【含义】：高兴,恩惠
+【来源】：来源于拉丁语形容词gratus(令人愉快的)、gratiosus(令人愉快的)和名词gratia(愉快,恩惠)。
+【同源】：agree, agreeable, agreement, congratulate, congratulation
+【词根】：-grav-
+【含义】：重;压迫;重要;挖,刻
+【来源】：来源于拉丁语动词gravo, gravare, gravavi, gravatus(重,压迫)和形容词gravis, grave, gravior(重的,重要的);可追溯至古印欧语ghrebh-(挖),在日耳曼语中派生了grob-, grub-, grab-(挖,刻)。
+【同源】：aggravate, engrave, grave, gravity, grief
+【词根】：-greg-
+【含义】：群,聚集
+【来源】：来源于拉丁语名词gre.x, greg.is, m(兽群,聚集)。
+【同源】：aggregate, aggregation, segregate, segregation
+【词根】：gubern, govern = govern 管理, 统治  来源于拉丁语或希腊语 guberno/kybernan 管理，舵，govern 为 gubern 的变体。
+【同源词】：1. govern   v.统治，治理，管理，控制，抑制，约束，支配2. governess  [govern统治 + -ess (n.) 表示人，一般为女性→]   n. 家庭女教师，女统治者，女管理者，总督夫人3. government  [govern统治 + -ment(n.)名词
+【后缀】 →管理国家的机构→]   n.政府，内阁，政体，控制，行政管理，支配关系4. governorship  [govern管理 + -or (n.) + -ship (n.) 表示身份→]   n.管理者身份5. gubernatorial  [gubern 管理 + -ator(n.)名词
+【后缀】 + -ial (a.)形容词
+【后缀】 →]   adj. 统治者的，管辖者的，地方长官的，州长的6. governor  [govern管理 + -or (n.) 表示人→]   n. 统治者，管理者，地方长官，总督，州长，董事7. cyberspace  [cyber本来还应该有个n,就和govern完全对应了；c-y,y-o和b-v分别发生了音变：cyber管理→控制、操纵→计算机的控制、操纵→计算机，网络，space空间→]   n.计算机空间，虚拟现实1 2 3 4 5 6  
+
+
+
+1 2 3 4 5 6 
+【词根】：gyn, gynec, gyneco = woman, female 妇女  分别来源于希腊语 gyne/gynaikos 女人,gyneco 为 gynec 的变体； 它相应的
+拉丁语为： femina 雌，不常用，例如：female 雌性。
+【同源词】：1. misogynic  [miso- 厌恶 + gyn 妇女 + ic (a.) 形容词
+【后缀】，表示“…的”→]   adj. 厌恶女人的2. gynecology  [gyneco 妇女 + -logy (n.) 名词
+【后缀】，表示“…学” → 研究有关妇女方面的学问 →]   n.妇科学，妇科3. androgyny  [andro 男，雄、-y (n.) → 男性与女性的混合体→]   n.具有男女两性，半男半女4. polygyny  [poly- 多、-y (n.) → 有很多女孩可以嫁给同一帅哥的制度→]   n.多妻，一夫多妻制5. philogynist  [philo 爱好、-ist (n.) 名词
+【后缀】，表示人 → 喜爱成熟妇女的人→]   n.喜爱女人的人6. monogynous  [mono- 独，单一，一个、-ous (a.) 形容词
+【后缀】，表示“…的” → 形容一个男人只可娶一个女孩的制度→]   adj. 一妻制的7. monogyny  [mono一个 + gyn 女 + -y 
+【后缀】 →一个女人 → [一个男人]只有一个女人 →]   n.一妻制8. gynarchy  [gyn女人 + archy 统治 → 女人统治→]   n.女人政治,女人当政9. misogynist  [miso 恨,厌恶 + gyn妇女 + -ist 
+【后缀】表示人→ 恨女人者 →]   n.厌恶女人的人
+【词根】：gran, grain = seed 谷物, 谷粒, 种子   来自拉丁语的gran 意为seed,它的变形为grain。
+【同源词】：1. ingrained（把种子播在里面的in(=in) + grain<gran(=seed)）   adj.（习惯等）根深蒂固的；（诺言等）彻头彻尾的   ingrain v.生染；使（习惯等）根深蒂固；(adj.)生染的；根深蒂固的；(n.)生染的纤维   Adults' racial prejudice has typically been ingrained since childhood. 成年人的种族偏见从孩童时期就已经根深蒂固了。 2. granary   [gran 谷物  +ary(=place where) 在此表示地方的名词
+【后缀】 ]   n.谷仓，粮仓；产粮区  3. granite  [gran 谷物  + -ite 名词
+【后缀】 表名词,"人或物" → 谷物的生命力都很强→引申出 坚毅 ]   n. 坚毅，坚韧不拔;花岗石 4. granulate   [见上，-ate动词
+【后缀】，使…]   v.使成粒状5. granule [gran谷物 +　-ule表示小 → “小谷粒” →]   n. 细粒，颗粒6. granular  [见上，-ar…的]   adj. 颗粒状的7. granularity  [见上，-ity名词
+【后缀】]   n.颗粒状8. granary  [garn谷物 + -ary表示场所，地点→]   n.谷仓，粮仓，产粮区9. grange  [gran谷物 + -e 
+【后缀】 → 生产谷物的地方”→]   n.农场，农庄，田庄10. granger  [见上，-er表示人 →]   n.田庄里的人，农民
+【词根】：greg = flock, gather, mob 群 / 聚结    
+【词根】拉丁语gregare(=to collect),grex(=flock 群）。有同类
+【词根】：-cumul- 堆积，来源于拉丁语 cumulus，如：accumulate 堆积起来、cumulative 累计；它相应的希腊语
+【词根】为：-soro- 堆积，如：soroche 高山病、sororiation 乳房增大。 
+【同源词】：1. egregious（脱离人群的 e<ex(=out) + greg(=flock,mob)）   adj.极坏的；异乎寻常的   egregiously adv.极坏地   The bassoon soloist made several egregious mistakes at the recital. 那个低音管独奏会上出现了几次极大的失误。 2. gregarious（因成群而充满的greg(=flock,mob)）   adj.群居的，集体的；合群的；爱社会的   I tend to be lost in the shadow of my gregarious friend. 同我善于社交的朋友在一起，我会不知所措。 3. segregate（使脱离于群 se(=away) + greg(=flock,mob)）   vt. 分离，隔离；实行种族隔离   segregation n.分离，隔离；种族隔离   segregationist n.各族隔离主义者   You need to segregate the bitch from the other dogs when she's in heat. 当母狗发情时，你需要把它和其他的狗隔离开来。 4. aggregate   v.聚集，集合；总计达 n.合计，总数，总额；（混凝土的）骨料   adj.总计的，合计的 *ag<ad(=to,near)   aggregation n.集合体，集成体   The money collected aggregated $1,000. 筹集的奖金总计1000美元。   in the aggregate 总计   aggregate demand 总需求 5. congregate   v.（使）集合 *con<com(=together)   People quickly congregated around the speaker. 人们很快就聚集到了演说者周围。 6. congregation   n.会集，集合；（教堂的）会众（通常牧师、对歌队除外）；（宗教的）集会 *con<com(=together) 7. congregational   adj.（教堂）会众的；集合的；（C~)（基督教）公理会的 *con<com(=together) 8. desegregate   v.废除种族隔离 *de(=reverse the action of),se(=away)   desegregation n.废除种族隔离   desegregate schools Alabama 亚拉巴马州取消种族隔离的学校。
+【词根】：gam, gamo = marry, marriage 婚姻  来源于希腊语 gamos 婚姻,
+【词根】 gamo 为 gam 的变体,它有两种具体形式：-gamy 为名词的构词形式，表示“…婚”; gamous 为形容词的构词形式，表示“…婚的,…性的”；它相应的
+拉丁语为：marit,nupti 结婚，分别来源于拉丁语 maritus,nuptiae。词例:
+【同源词】：1. autogamy  [auto- 自己 + -gam- 结婚 + -y (a.) 形容词
+【后缀】，表示“…的”， 形容自己与自己结婚的 → ]   adj. 自花受精的,自体受精的2. bigamy  [bi- 双,两 + -gam- 结婚 + -y (n.) 名词
+【后缀】 → 同时与两个人结婚 → ]   n. 重婚 ( 罪 )3. monogamy  [mono- 一 + gam 结婚 + -y (n.)名词
+【后缀】 → 只能同时与一个人结婚的 → ]   n. 一夫一妻制4. neogamist  [neo- 新 + gam 结婚 + -ist 名词
+【后缀】表示人 → 形容刚刚结婚的 → ]   n. 新婚者5. endogamy  [endo- 内,中间 + gam 结婚 + -y (n.) 名词
+【后缀】 → 家族成员内部结姻的现象 → ]   n.内部通婚6. polygamous  [poly- 多 + gam 结婚 + -ous (a.) 形容词
+【后缀】，表示“…的” → 形容一个男人有多位妻子的( 或反之) → ]   adj. 多配偶的,一夫多妻的,一妻多夫的
+【词根】：gen(gn), gener, gent = birth（出生）, race（种族）   含有gen
+【词根】的单词数量很大，有的来自拉丁语，有的来自希腊语，不过
+【词根】的形态与含义都一致的。因为gen 的拉丁语源genus和希腊语源genos是同源同义的，它们都来自印欧语
+【词根】gen, 意为 birth,creation,race,kind。
+【词根】gener 是拉丁名词genus 的属格generis的词干部分，可当作gen的异形根看待，gn 是它的变形。   （*拉丁文generare(=to produce),genus(=race),gignere(=to bear,to beget 生产）。希腊文 genesis(=origin,source)。在英语中，gen 的形式也经常用于“生产，产生”之意，再由其演变为“种，种族”等相关意思。 —— 英文根字典） 1. congenial（带着某物一同出生的 *con<com(=with) + gen(=birth)）   adj.性格相同的，情投意合的；惬意的   congeniality n.情投意合   congenially adv.情投意合地   I like working here because of the congenial atmosphere. 我喜欢在这里工作，因为这里的环境很舒适。 2. cognate（一起、一同出生 co<com(=togehter) + gn<gen(=birth)）   adj.同源的；同族的；[语]同源同词的；同语系的   n.
+【同源词】   cognation n.亲族；同语系   German and English are cognate languages. 德语和英语属于同一语系。 3. disingenuous（非出生状态的 dis(=not) + in(=in) + gen(=birth)）   adj.不诚实的；不正直的，阴险的   disingenuously adv.不诚实地   disingenuousness n.不诚实   Her disingenuous flattery sets my teeth on edge. 她那毫无诚意的恭维让我很不舒服。 4. engender（使诞生 en(=make) + gen(=birth,creation)）   vt.使发生，引起，诱发，造成   Unkind words,often repeated ,may ultimately engender considerable conflict. 刻薄的话如果频繁重复，终究会引起大矛盾。 5. generate（使诞生，使出生 gen(=birth,creation)）   vt.生育；产生；发出（光、热、电等）；引起，导致   generation n.产出，发生；世代   generator n.发电机，发生器   generative adj.有生产力的；生成的   How do earthquakes generate such destructive results ? 地震是怎样造成如此破坏性的后果的？ 6. genial（出生、诞生的 gen(=birth) + i + al(=nature of )）   adj.（天气等）适宜生长的，温和的，温暖的；亲切的，和蔼的   geniality n.温和，亲切；和蔼的行为   A genial home atmosphere is the most important ingredient to a child's development. 温暖的家庭氛围是孩子成长过程中最重要的因素。 7. ingenuity（诞生的状态 in(=in) + gen(=birth)）   n.机录；才干；才能；创造力，独创性   ingenious adj.机灵的；具有创造力的；巧妙的 cf.ingenuous 纯真的   His ingenuity kept the company running even during the cash shortfall. 他的才能使公司在资金短缺的情况下也能正常运转。 8. ingenuous（诞生的状态 in(=in) + gen(=birth)）   adj.坦白的，直率的；天真的，纯真的；自然的   She was an ingenuous country girl when she first arrived in the city. 初到城里之时，她还是一个天真无邪的乡村姑娘。 9. indigenous（在里这，内部出生的 indi(=within) + gen(=birth)）   adj.本士的；固有的   As a general rule,indigenous people make decisions communally. 一般情况下，土著居民会共同作出决定。 10. malignant（使产生坏状态的、恶性的 mali<mal(=bad) + gn<gen(=birth)）   adj.怀有恶意的，恶毒的；（疾病）恶性的，致命的；极有害的   malignity n.恶意；恶性   malignancy n.恶性   malign adj.极有害的，恶性的；(v.)中伤，诽谤   Unfortunately ,laboratory tests showed the mass to be malignant .不幸的是，化验显示肿块为恶性。 11. congenital   adj.（病症）先天的 *con<com(=with)   congenital idiocy/deformity  先天弱智/残疾 12. degenerate   v.变质，堕落；退步；退化 adj.堕落的；退化的 *de(=down)   degeneration n.退步，退化；堕落   degeneracy n.退步，退化；堕落   The South Korean people of today are degenerating. 当今韩国人正在逐步堕落。 13. eugenics (eu好,优秀+gen产出+ics学科→产生优秀[后代]→优生学)   n.优生学 *eu(=good) 14. homogeneous   adj.同种的，同质的 *homo (=same)   homogeneity n.同种，同质   homogeneous population of South Korea 由单一民族构成的韩国人口 15. homogenize   v.使均匀，使均质（尤其指牛奶中的油脂颗粒均匀分布 *homo(=same)   homogenized milk 均脂牛奶 16. heterogeneous   adj.异种的，异质的 *hetero(=other)   the heterogeneous population of the United States 由不同民族构成的美国人口 17. pregnant   adj.怀孕的；（言语、行动）意味深长的，储蓄的；富有的；充满的 *pre(=before),gn<gen(=birth)   I am pregnant /expecting. 我怀孕了。   political events pregnant with consequences 具有重要意义的政治事件 18. pregnancy   n.怀孕；丰富；深奥，意味深长 *pre(=before),gn<gen(=birth)   She's had eight pregnancies in six years. 她六年中怀孕入次。 19. progenitor   n.（人、动植物的）祖先；前辈 *pro(=before)   the great progenitor 伟大的祖先 20. progeny   n.子孙，后裔；结果，产物 *pro(=forth) 21. primogeniture   n.长子（的身份）；长子继承（权） *prim(=first)   ultimogeniture 幼子继承（权） 22. regenerate   v.洗心革面；刷新；再生 adj.新生的 *re(=again)   regeneration 新生，刷新，再生 23. gender   n.[语]性 24. gene   n.基因   gene bank 基因文库   gene pool 基因库 25. genealogy （-logy = study）   n.家系，血统；系统，系谱；系谱学   genealogist n.系谱学者 26. genealogical   adj.系谱的，家系的；表示系统的   genealogical tree 家系图；系统树   genealogical table 族谱 27. general   adj.一般的，普通的；大体的；概括的，综合的，全体的，总体的；（用于职位后）总...,长.... n.陆军上将，将军；战备家，战术家   General Accounting Office 审计院；总审计局   general affairs 总务   General Assembly 联合国大会   general attack 总攻   general anesthesia 全身麻醉   general hospital 综合医院   general manager 总经理   general orders [军]一般命令   general practitioner 全科医生，普通医生   general strike 总罢工   general war 全面战争;local war 局部战争   attorney general <美>悚法部长;<英>检察总长   surgeon general <美>卫生局局长   postmaster general 邮政部长   inspector general 检察长 28. generality   n.一般性，普遍性;（the ~ (of)）多数，大部分   from generalities to particularities 从一般到个别   The generality of Swedes are blonde. 大多数瑞典人都是金发。 29. generalize   v.使一般化，推广；概括（事实等），归纳；普及   generalize the use of a new invention 推广新发明的使用 30. generalization   n.一般化，概括，归纳；<贬>判断   hasty generalization 仓促的判断 31. generally   adv.一般地，通常地；广泛地 32. generalissimo   n.大元帅，全军总司令   generically adv.属类地；总称地   generic name 属名 33. generosity   n.宽宏大量，雅量，宽大；（pl.）宽大的行为   show generosity in dealing with a defeated enemy 对战败的敌人宽宏大量 34. generous   adj.丰厚的；宽大的；丰富的，丰盛的   generously adv. 丰厚地；宽大地；丰盛地   He is generous with his money. 他花钱很大方。   What a generous gift! 多么丰厚的礼物啊！ 35. genesis   n.开始，发生，起源；（G~）创世纪（《圣经》中《旧约全书》中的第一篇）   genesis of civilization 文明的起源 36. genetic   adj. 遗传因子的，遗传学的   genetics n.遗传学   geneticist n.遗传学者   genetic code 遗传密码（信息）   genetic engineering 遗传工程 37. gential   adj.生殖的，生死（器官）的 n. （pl.）生殖器；外阴部 38. genitive   n./adj.[语]所有格（的），属格（的）   genitive case 所有格，属格 39. genius   n.天才，天赋；创造力，独创性；（时代、社会、国民等的）特质，精神；倾向，思潮；风气；（人种、语言、制度等的）特点，特征；守护神   have a genius for music/acting /making friends 在音乐/表演/社交方面有天赋   She is a genius in English. 她在英语方面是个天才。 40. genocide   n.集体屠杀，种族灭绝 *cid(=kill) 41. genotype   n.基因型，遗传型   phenotype 表现型 42. genre   n.（文艺作品的）类型；[画]风俗画 43. genteel   adj.（过去用做褒义，而现在则多用做讽刺义）有礼貌的，有教养的；冒充上流社会的；假斯文的，装绅士派头的   living in genteel poverty 装阔气的   do the genteel 将气象，装体面 44. gentility   n.出身高贵；优雅   living in shabby gentility 穷摆阔气地 45. gentle   adj.温和的；温驯的；轻柔的；出身名门的，出身高贵的   gentleness n.温驯，和善；高贵   gentle heart /look/voice/touch/nature 善良的心/亲切的样子/柔和的声音/轻柔的触碰/温顺的秉性 46. gentleman   n.绅士；（贵族的）侍从；（pl.）（尊称）阁下，先生   gentlemanship n.绅士身份，绅士品格   gentlewoman 贵妇人，淑女   gentleman's agreement 君子协定   Ladies and Gentlemen （对听众的称呼）女士们，先生们！ 47. gentlemanly   adj.绅士风度的   gentlemanly apology 有绅士风度的道歉 48. gently   adv.温和地；缓和地   Speak gently to the child. 对孩子们说话要温和。   The road slopes gently to the sea. 道路的缓坡一直伸向大海。 49. gentry   n.<英>中上阶层（地位、身份低于贵族） 50. genuine   adj.真实的；真诚的   genuinely adv.真诚地   genuine picture by Rubens 鲁宾斯的真画   genuine pearl 真珍珠   genuine sorrow 由衷的悲伤   genuine signature 亲笔签名 51. genus   n.（动、植物的）属，种类   the genus Home 人类 52. hydrogen   n.氢 *hydro (=water)   hydrogen bomb 氢弹 53. nitrogen   n.氮 *nitro (=niter)   nitrogen dioxide 二氧化氮 54. oxygen   n.氧 *oxy(=acid,sharp)   oxygen breathing apparatus 氧气呼吸器   oxygen mask 氧气面罩 55. abiogenesis   n. 自然发生；偶发（a- (=without) + bio(=life) + genesis（创始）） 56. biogenesis   n.生物发生；生源论（系一种生物由他种生物演化而成的，而非由无生物演变而成的） 57. endogenous   adj.内部产生的；由内部发展的（由内产生）《endo- = inside》  58. exogenous   adj.外源的；外来的（由外产生）《exo- = outside》 59. pathogenic   adj.致病的；病原的（使人生病的）《patho = to suffer,disease》 60. schizogenous   adj.分裂生殖的《schizo = to split（分裂）》
+【词根】：gon = to compare, to test, angle   来源于希腊语 gonia, 意为to compare,to test,angle。有异形同义
+【词根】：angul ,angl ,corn 角。
+【同源词】：1. paragon （来到旁边成为比较的对象 para(=beside) + gon(=compare,test,angle)）   n.模范，榜样，典范   Priestes are supposed to be paragons of virtue,though that's not always so. 牧师被认为是美国的典范，尽管实际上并非总是如此。 2. diagonal   n./adj. 对角线（的）；倾斜（的） *dia (=across) 3. trigonometry   n.[数]三角 tri (=three),metr<meter(=measure) 4. pentagon   n.五边形；(the P~)美国五角大楼 *penta(=five)   pentagonal adj.五边形的   Pentagon officials 五角大楼官员 5. hexagon   n.六边形；(the H~)法国（从地图上看，法国近似六边形） *hexa (=six)   hexagonal adj.六边形的   Within the Hexagon there are 96 departments. 法国有96个省。 6. octagon   n.八边形  *octa (=eight)   octagonal adj.八边形的 7. polygon   n.多边形 *poly(=many)   regular polygon 正多边形
+【词根】：gnor, gnos, gniz = 知   
+【词根】gnos 来源于拉丁动词gnoscere 意为 to know （知），它与noscere 是同一个拉丁词，只是添加
+【前缀】时前面加上字母g(这个g在
+【词根】中不发音，在
+【前缀】之后才读音。）gnit 是gnoscere 的分词词干，gniz是gnit在英语中的变体。     它们的异形同义
+【词根】是cogn，
+【词根】cogn来源于拉丁语 cognoscere 知道,还有异形同义
+【词根】：-sci- 知道。 
+【同源词】：1. ingnorant  [i- = in- 无，gnor 知，-ant 形容词
+【后缀】，...的]   adj.无知的，愚味的，没有学问的；不知道的 2. ignorance  [见上，-ance 名词
+【后缀】，表示情况、性质]   n.无知，愚味，不学无术；不知 3. ignore  [i- = in- 不，gnor 知道 → 注意到；“不知道”→不注意→不愿意→不理，to refuse to take notice of →]   v.不顾，不理睬，忽视 4. gnostic  [gnose 知，知识，-tic 形容词
+【后缀】，...的]   adj.知识的；关于知识的；有知识的 5. agnostic  [a- 不，gnos 知，-tic ...的]   adj./n. [哲学]不可知论的；[转作名词]不可知论者 6. diagnose  [dia- 贯穿→从头到尾→彻底，gnos 知道了，了解；彻底了解（病情）→]   v.诊断（疾病）；断定，判断 7. diagnosis  [见上]   n.诊断法；判断 8. diagnostic  [见上，-tic ...的]   asdj.诊断的 9. diagnostician  [见上，-ian 表示人]   n.诊断医生，诊断学家 10. prognostic  [pro-前，预先，gnos知，-tic 形容词
+【后缀】,...的]   adj./n.预知的，预示的，预兆的；[转为名词]预兆，预测，预知 11. prognosticate  [见上，-or 表示人]   v.预示，预兆，预言，预测 12. prognosticator  [见上，-or 表示人]   n.预测者，预言者 13. prognosis  [见上]   n.预知，预测；预后（根据症状预测能否治愈）
+【词根】：galact, lact = 乳   
+【词根】galact和lact 分别来源于希腊语 galakt和拉丁语。
+【词根】 -lacti- 为 -lact- 的变体，且有异形同义
+【词根】：-mamm- 乳房。 
+【同源词】：1. lactary  [lact 乳，-ary (a.) 形容词
+【后缀】，表示“…的”]   adj.乳的,乳状的 2. ablactate  [ab- 离开、-ate (v.) 表示使, → 使之离开幼小，不再吃母乳 →]   v.使断奶 3. ablactation  [ab- 离开，lact 乳，-ation 名词
+【后缀】]   n.断奶 4. lactifuge  [lact 乳,fug 逃, 散,-e (n.) 名词
+【后缀】]   n. 退乳药,止乳剂 5. lactate  [lact 乳，-ate 动词
+【后缀】]   v.分泌乳汁；喂奶，授奶 6. lactation  [见上，-ation 名词
+【后缀】]   n.汁分泌；授乳（期） 7. lacteal  [lact 乳，-eal 形容词
+【后缀】,...的]   adj.乳汁的；乳白的 8. lactean  [lact 乳，-ean 形容词
+【后缀】，...的]   adj.乳汁的；乳白的 9. lactic  [lact 乳，-ic ... 的]   adj.乳的；乳汁的 10. lactose  [lact 乳，-ose 化学名词
+【后缀】，表示 糖]   n.乳糖 11. prolactin  [pro- 前,向前、-in (n.) 表示素 → 催促乳汁向前流出的激素→]   n.催乳激素 12. agalactia  [a- 无、galact 乳，-ia (n.) 名词
+【后缀】，表示疾病 → 缺乏乳汁的病症→]   n.乳汁缺乏症 13. galactin  [galact 乳，-in (n.) 名词
+【后缀】，表示素 → 催乳激素的另类写法]   n.催乳激素
+【词根】：gyr, gyro = 旋转   来源于希腊语 gyros 旋绕,
+【词根】gyro是gyr 的变体。 
+【同源词】：1. gyral  [gyr 旋转，-al 形容词
+【后缀】，...的]   adj.旋转的，回旋的 2. gyrate  [gyr 旋转，-ate 动词
+【后缀】]   v.旋转，回旋 3. gyration  [gyr 旋转，-ation 名词
+【后缀】]   n.旋转，回旋 4. gyrograph  [gyro 旋转，graph 写→记录]   n.转数记录器 5. gyroidal  [gyr 旋转，-oidal 形容词
+【后缀】，如...的]   adj.回转的；螺旋形的 6. gyroscope  [gyro 旋转，scop 看，观测→观测仪]    n.旋转仪，回旋仪 7. gyrocompass  [gyro 旋转，compass 罗盘]   n.回旋罗盘 8. gyroplane  [gyro 旋转，plane 飞机]   n.旋翼机 9. autogyro  [auto- 自己，gyro 旋转]   n.自转旋转翼飞机（一种直升机），旋翼机 10. levogyrate  [levo 左，gyr 旋转，-ate 形容词
+【后缀】 ... 的]   adj. 左旋的
+【词根】：gloss, glot = tongue 舌, 语言   来源于希腊语,
+【词根】glot 为
+【词根】-gloss- 的变体。与gloss ,golt的意思相同或相近的
+【词根】有:lingu 舌头，fam/fat/phon 说，dic 说，cit呼喊等。 
+【同源词】：1. glossal [gloss 舌，-al ...的]   adj.舌的 2. glossitis  [gloss 舌，-itis 名词
+【后缀】，表示炎症]   n. 舌炎 3. glossopharyngeal   [gloss 舌，-o-,pharyngeal 咽的]   adj.舌咽的 4. aglossia  [a- 无，gloss 舌，-ia 名词
+【后缀】]   n.[医学]无舌，缺舌 5. aglossal  [a- 无，gloss 舌，-al ...的]   adj.无舌类的，无舌的 6. hypoglossal  [hypo- 下面，gloss 舌，-al ...的]   adj.舌下的 7. epiglottis  [epi- 在...旁边，glot 舌，“舌旁”的软骨]   n.舌根软骨，会厌 8. paraglossa  [para- 旁，非正，副,gloss 舌，-a 名词
+【后缀】]   n.副舌 9. polyglot  [poly- 多，glot 语言]   adj./n. 多种语言的；懂多种语言的（人） 10. heptaglot  [hepta- 七，glot 语言，文字]   adj./n. 用七种文字写的；用七种文字写成的书 11. gloss  [gloss 语言→注解，说明]   n.注解，注释；评注 12. glossary  [gloss 语言→词汇，-ary 名词
+【后缀】]   n.词汇表，；术语词典 13. glossarial  [见上，-al ...的]   adj.词汇表的 14. glossarist  [见上，-ist 者]   n.词汇表编者；注释者 15. glossator  [gloss 语言→说明，注解，-ator 者]   n.注解者 16. glossotomy  [gloss 舌，-o-,tomy 切]   n.舌切开术 17. glottal  [glot 舌→发音部位，-al ...的]   adj.声门的 18. anthropoglot  [anthropo 人类，glot 语言]   n.能学人类语言的动物（如鹦鹉等）1 2 3 4 5 6  
+
+
+
+1 2 3 4 5 6 
+【词根】：glaci = 冰
+【同源词】：1. glacier  [glaci 冰，-er 表示物]   n.冰河，冰川 2. glacieret  [见上，-et 表示小]   n. 小冰河，小冰川 3. glaciology  [glaci 冰，-ology ...学]   n.冰河学，冰川学 4. glacial  [glaci 冰，-al ...的]   adj.冰的；冰状的；冰河的 5. glacialist  [见上，-ist 表示人]   n.冰河学家 6. glaciate  [glaci 冰，-ate 动词
+【后缀】，使...]   v. 使冰冻，使冻结，使受冰河作用 7. glaciation  [glaci 冰，-ation  名词
+【后缀】]   n.冰河作用，冰蚀 8. subglacial  [sub- 下]   adj.冰川下的 9. preglacial  [pre- 前]   adj.冰河期前的 10. postglacial  [post- 后]   adj.冰河期后的 11. neoglacial  [neo- 新]   adj.新冰河作用的
+【词根】：geo = 地   助记：该亚Gaia 是希腊神话中最早的大地女神，她的名字意为ge “大地”。George 即乔治意为“农夫”，而农夫是在“地”里干活的，George 中草药的geo 就是：地。 
+【同源词】：1. geography  [geo 地，大地，graph 写→论述，-y 名词
+【后缀】；“关于大地的论述”→]   n.地理学，地理 2. geographer  [见上，-er 者]   n.地理学者，地理学家 3. geometry  [geo 地，土地，metry 测量；“土地（面积）测量法）”——几何学的来源]   n.几何学 4. geology  [geo 地，地球, -logy  ...学]   n.地质学 5. geologist  [见上，-ist 表示人]   n.地质学者 6. geologize  [见上，-ize  动词
+【后缀】]   v.研究地质学 7. geophysics  [geo 地，地球，physics 物理学]   n.地球物理学 8. geoscience  [geo 地球，地，science  科学]   n.地球科学 9. geopolitics  [geo 地，politics 政治学]   n.地缘政治学 10. geomagnetic  [geo 地，magnetic 磁的]   adj.地磁的 11. geospace  [geo 地，地球，space 空间]   n.地球空间（轨道） 12. geostrategy   [geo 地，地球，strategy 战略]   n.地缘战略学 13. geothermal  [geo 地，therm 温，-al ...的]   adj.地温的，地热的 14. geocide  [geo 地，地球，cid 杀→杀死→死亡，毁灭]   n.地球末日 15. giant  [gi 大地 → 大，巨，-ant 名词和形容
+【后缀】]（Giant 是希腊神话中的巨人，是乌拉诺斯与该亚Gaia 民生的两个巨人，所以gi=ge=地球，和该亚Gaia 的名称相对应。）   n.巨人；才智超群的人   adj.巨大的  16. giantic   adj.巨大的，庞大的
+【词根】：gastr, gastro = 胃, 腹   来源于希腊语 gaster 胃,
+【词根】gastro 是
+【词根】gastr 的变体,它们相应的
+拉丁语为：-stomachus- 胃。 
+【同源词】：1. gastralgia  [gastr 胃，alg 痛，-ia 表示疾病]   n.胃痛 2. gastric  [gastr 胃，-ic ...的]   adj.胃的；关于胃的 3. gastrin  [gastr 胃，-in素]   n.促胃液（激）素，胃泌激素 4. gastritis  [gastr 胃，-itis 炎症]   n.胃炎 5. gastroenteritis  [gastro 胃，enter 肠，-itis 炎症]   n.胃肠炎 6. gastroenteric  [gastro 胃，enter 肠，-ic ...的]   adj.胃肠的 7. gastroenterology  [gastro 胃，enter 肠,-ology ...学]   n.胃肠病学 8. gastrectomy  [gastr 胃，ec- 外，tomy 切，割]   n.胃切除术 9. gastroscope  [gastro 胃，scop 镜]   n.查胃镜，胃（窥）镜 10. gastronomy  [gastro 胃 →胃口，吃，nomy 法，术，学；“研究吃的方法”，“研究如何适合胃口”→]   n.烹调法，美味法，美食学 11. gastronomic  [gastro 胃，nom  法，学，术,-ic ...的]   adj.烹调法的，美食法的 12. gastronomist  [见上，-ist 人]   n.爱吃的人，讲究吃的人 13. agastric  [a- 无，gastr 胃，-ic ...的]   n.无胃的 14. cacogastric  [caco 恶，不良，gastr 胃，-ic ...的；“胃不良的”→]   adj.胃弱的，消化不良的 15. polygastric  [poly- 多，gastr 胃，-ic ...的]   adj. 多胃的 16. stomatogastric  [stomao 口，gastr 胃，-ic ...的]   adj.口与胃的 17. gastropod  [gastro 腹，pod 足]   n.腹足纲的软体动物 18. gastropodous  [见上，-ous ...的]   adj.[动物]腹足纲的 19. Arthrogastra  [arthro 关节，gastr 腹，-a 名词
+【后缀】，表示动物类纲]   n.[动物]节腹类（腹部成为关节者，如蝎等） 20. epigastrium  [epi- 上，gastr 腹，-ium 名词
+【后缀】]   n.上腹，腹上部 21. hypogastrium  [hypo- 下，gastr 腹，-ium 名词
+【后缀】]   n.下腹的，腹下部的 22. mesogastrium  [meso 中间，gastr 腹，-ium 名词
+【后缀】]   n.中腹部 23. mesogastric  [见上，-ic ...的]   adj.中腹部的
+【词根】：grav(griev), gravat = heavy 重, 加重   这是非常重要的二个
+【词根】，也是考试中经济考到的，在各类考试中经常出现
+【词根】griev是
+【词根】grav的变体，来源拉丁语的gravis，为了方便大家学习这个
+【词根】，以及它们派生出来的大量词汇，这里对这二个
+【词根】作了详细的分析，不仅从词源方面，而且还对这二个
+【词根】的延伸意进行了分析，通过这二个
+【词根】派生出一些重要的词汇。    [探源] ①分别来源于拉丁语 gravo/gravis/gravatum(v.) 加重；②来源典故：苹果砸牛顿的故事，后来他发现了 gravitation“万有引力”；③来源于物理学中重力加速度单位 (G)：grav 格拉夫；④来源基础词 grave 重大的，为它的变体，含义为它的引申义，分解为：-grav- 加重 + -e (a./ n.)，形容与重有关的词汇，即重大的 / 重压的 / 严重的 /庄重的 / 沉重的 / 抑音   [引申]雕刻（理解：逝者生平事迹被刻画在方石之上，成为墓志铭，因而grave也有雕刻的含义，通过使用engrave(en-使，+grave 雕刻），亦可指令人铭记在心。）   [属性]母义：-grav- / -gravat- = weight/ heavy 重 / 重的   [其他]①有异形同义
+【词根】：-pend- / -pens- / -pond- 加重；②它相应的希腊语
+【词根】为：-bary- 重，如：barycenter 重心、baryon 重子；③
+【词根】 -griev- 为 -grav- 的变体，其中，
+【词根】 -griev- 是根据五元音 a/ e/ i/ o/ u音的交替规律由 -grav- 变来的，且属于单/ 双音交换，如：grievous 重的 / 悲痛的、grieve 使悲伤。 
+【同源词】：1. aggravate [使更加重ag<ad(=to,add)+grav(=heavy)]   vt. 使恶化；使恼火   aggravation  n. 恶化；恼火   aggravating  adj.恶化的   Cold weather always seems to aggravate my arthritis pain. 好像冷天总会使我的关节炎疼痛加重。 2. aggrieve   v. [常用被动语态]使委屈；使悲痛 *ag<ad(=add),griev<grav(=heavy) 3. grave [到了墓地人们的行为举止都是grave的，重大事件可以叫做grave matter。]   n.墓穴，坟墓   gravedigger  n. 掘墓人   gravestone  n. 墓碑，墓石   graveyard  n. 基地   have one foot in the grave  离死期不远 4. gravitate   v. 受引力作用而运动；受吸引 5. gravitation   n.引力；重力 6. gravity   n.引力；重力；重量；严重性 7. grievance   n.不满，不平；牢骚，抱怨 *griev<grav(=heavy) 8. grieve   v. 使悲痛 *griev<grav=heavy)  9. grievous   adj.（令人）悲痛的；严重的 *griev<grav(=heavy)   grievous railway accident  悲惨的铁路事故   grievous mistake  大错   grievous pain  极度的痛苦 10. engraving   v. 雕刻术,版画 11. gref   n.悲伤，忧愁
+【词根】：graph, gram = to write（书写）   来自希腊语的graph,gram意为to write。同义
+【词根】有来自拉丁语的scrib/script。    （*希腊文gramma (= letter),graphein (= to write)——英文字根字典）
+【同源词】：1. graphic adj.书写的；图解的，绘画的；生动的（写的graph(=write)）   graphics n.制图法   graphically adv.生动地；用文字；通过图表   Her graphic presentation of the data was quite clear.她用图表所展示的数据非常清晰明了。 2. graphic n.石墨 3. autograph n.亲笔签名 v.亲笔签名 *auto (=self)   autograph book/album 签名纪念册;book autogrphed by the author 作家亲笔签名的书；autographed photograph亲笔签名的照片 4. autobiography n.自传 *auto(=self),*bio(=life)   autobiographer n.自传作者 5. biography n.传记 *bio(=life) 6. bibliography n.书目提要；参考书目；目录学 *bibl(=book) 7. calligraphy n.书法；笔迹 *calli(=beautiful)   calligrapher n.书法家 8. geography n.地理学 *geo(=earth)   geographer n.地理学者 9. lithography n.平版印刷术 *lith (=stone)   lithograph n.平版画   lithographic adj.平版印刷（术）的 10. phonograph n.留声机 *phon (=sound) 11. photograph n.照片 v.拍照 *photo (= light)   photography n.摄影术   photographic adj.摄影的；摄影用的   photographic apparatus/goods/periodicals摄影器械/用品/杂志 12. polygraph n.复写仪；[医]多种波动描记器；测谎器 *poly (=many) 13. pictograph n.象形文字；古代石壁画；（用图形表示的）统计图表 *pict (= paint) 14. stenography n. 速记；速记法 *steno (=narrow)    stenographer n.速记员 15. telegraph n.电报；电报机 v.发电报；流露 （从远处书信送来的）《tele- = far off》 16. grammar (*gram写,图+mar→写的规则 →语法是用来规范书写的 →) n.语法    grammarian n.语法学家    grammatical adj.语法的，语法上的    grammatical error 语法错误 17. cryptogram n.密码 *crypt ( = hide) 18. diagram n. 图表；图解 *dia (=through) 19. epigram n. 隽语；警句（写在石头上的东西->碑志）《epi- = upon》   epigrammatic adj.警句（式）的；讥讽短诗（般）的 20. program n.程序；节目单；计划（表）；（政党）纲领 v.[计]编程序；制订计划；安排节目 *pro (= forth,before)   program(m)er n.节目编排人；（计算机的）程序员   program director （广播、电视的）节目纺导   program note 节目简介   program music 标题音乐   political  program 政治纲领 21. monogram n.由姓和名第一个字母组合而成的图案《mono- = single》 22. parallelogram n. 平行四边形 （对面平行的图形）《parallel = 平行的》 23. monograph n.专论；专文（单一论述）《mono- = single》 24. orthography n.正确拼法；拼字法（写的正确） 25. epigram 警句,格言 n. (epi在……上 + gram 写 → 写在上面的话→格言)     epigrammatic adj. (epigram[n.警句,格言]+atic表形容词→epigrammatic警句的) 警句的  26. gramophone n. (gramo=gram写,图+phone电话机→写下声音的电话机→留声机) 留声机
+【词根】：grand = great, large（大）   来源:①来源于古法语或拉丁语 grand/grandis 大；②来源于一种乐器名称：grand piano ( 三角平台式 ) 大钢琴； 意为great,large。同义
+【词根】有来源于希腊语的coloss,magn,maha,mega/megalo,metro 和来源于拉丁语的maj,max等  。同形异义
+【词根】：-grand- 隔一代的 ( 亲戚关系 )，如：grandad 爷爷、grandson 孙子。 
+【同源词】：1. aggrandize（使更大 ag<ad(=to,add)强调 + grand(=great) + -ize (v.) 动词
+【后缀】）   vt.增加，扩大，强化（权力、财产、地位等）；夸张   n.aggrandizement n.扩大；提高；强化；夸张（同上，-ment (n.) 名词
+【后缀】）   He seeks to aggrandize himself before his superiors to advance his career. 他为了晋升而在上司面前过分地夸大自己。 2. grand   adj.雄伟的，壮丽的；高贵的；愉快的；总的，完全的；崇高的   grandly adv.宏伟地；崇高地   grand jury 大陪审团   Grand Canyon 大峡谷（美国亚利桑那州科罗拉多河的大峡谷）   Grand Old Party 老大党，指美国共和党，缩写：GOP 3. grandeur （-eur (n.) 名词
+【后缀】，大的东西特别是建筑，山川，江河等越大越壮丽，壮观-->）   n.伟大，庄严；壮丽，壮观   the grandeur of Napoleon Bonaparte 拿破仑.波拿巴的伟大   the grandeur of the Swiss Alps 瑞士阿尔卑斯山的壮观   the grandeur of his nature 他高贵的气质 4. grandiloquent （-i- 连接词、-loqu- 说、-ent (a.) 形容词
+【后缀】，表示“…的”（形容与大有关的词汇，即夸大的 / 夸张的 / 词藻浮华的））   adj.夸张的，夸大的；大言不惭的 *loqu (=say)   grandiloquence n.夸张之言；大言不惭   grandiloquent speaker 夸夸其谈的人   written in a grandiloquent stlye 以夸张的风格写作 5. grandiose （-grand- 大 + -i- 连接词 + -ose (a.) 表示“…的”，形容与大有关的词汇，即宏伟的 / 庞大的 / 浮夸的）   adj.宏伟的；浮夸的 6. grandfather （比爸爸还大的，还长的，爸爸的长辈 -->）   n.（外）祖父 7. grandmother（比妈妈还大的，还长的，妈妈的妈妈-->）   n.（外）祖母
+【词根】：ger, gest(gist) = to carry（运、载）   来源于拉丁语的ger,gest是一对同源异形根，意为 to carry,to bear，其中，ger 是拉丁动词 gerere的不定式词干；gest 是这个动词的动名词词干，其意思相当于to carry（运送，携带，传送）。在英语中ger只出现于  belligerent（交战中的），congeries （堆积）和gerund（动名词）等单词中；gest却有很强的孳生能力。
+【词根】的变形为gist。同义
+【词根】有来源于拉丁语的fer,lat,port,veh/vect 和来自希腊语的phor/pher。 
+【同源词】：1. congest（一起搬运 con<com(=together) + gest (=carry,bear)）   vt.使拥挤；使充满；使充血   congestion n.拥挤；充血   congested adj.拥挤的；充血的   A number of large vehicles congested the bridge. 众多大型车辆使大桥拥堵。 2. belligerent（带来战争的 bell (=war) + ger(=carry)）   adj.战争的，交战中的，好战的 n.交战国；参加斗殴的人（或组织）   belligerency n.交战状态，好战性 cf.bellicose 好战的   Son,i can't tolerate much more of your belligerent attitude. 孩子，我实在不忍受你好斗的态度了。 3. digest（di- < dis-(=away)离；gest = to carry 运送 --> " to carry away 运走或取去" --> " to take in 吸进来"）   v.消化；领悟;做...的摘要 n.概要，摘要，纲要   digestible adj.可消化的 4. digestion   food hard/easy of digestion 难/易于消化的食物   have a good / poor digestion 消化力强/弱 5. digestive   adj.消化的 *di<dis(=away,apart)   digestive system 消化系统   suffer from digestive trouble 消化不良 6. exaggerate (ex出+ag=ad+ger带来,表达+ate表动词→表达太过分)   v.夸张，夸大 *ex(=out),ag<ad(=intensive) 7. exaggerated   adj.夸张的，夸大的 *ex(=out),ag<ad(=intensive)   He has an exaggerated sense of his own importance. 他过于看重自己。 8. exaggeration   n.夸张，夸张的言语   story full of exaggerations 充满夸张的故事   It is no exaggeration to say that 说...一点也不夸张 9. gerund   n.[语]动名词 10. gestation   n.怀孕（期） 11. gesticulate   v.用手势交谈，做姿势表达   gesticulation n.手势，示意动作；做示意动作、手势 12. gesture   n.手势，示意动作 v.用手势、动作示意   gesture of refusal 表示拒绝的手势 13. ingest   v.摄取（食物）等 *in(=into) 14. nonbelligerent   n.非交战国 adj.非交战国的 *non (=not) ,bell(=war) 15. suggest（sug<sub = under 在...下面；gest = to carry 送--> " to carry ( some idea) from under 从下面呈上（某种想法）" --> " to bring up for consideration 提出以供参考" ）（请注意：本实例中带sug的单词意思  都表示under,所以，这里其它单词一般没有写出来。）   v.提议，建议；暗示；使想起，使联想到 *sug<sub(=under)   suggestible adj.易受影响的；可建议的 16. suggestion   n.提议，建议；暗示，启发；示意；联想；细微的迹象 *sug<sub(=under)   suggestion(s) -box 建议箱   hypnotic suggestion 催眠暗示作用   not even a suggestion of fatigue 没有一点疲劳的迹象   suggestion of blue in the gray 蓝灰色中还有一丝微蓝 17. suggestive   adj.暗示的；启发的，示意的；引起联想的，使想起...的；挑动色情的 *sug<sub(=under)   suggestive remarks 暗示的话   suggestive jokes 挑动色情的笑话 18. register   n.（出生、船籍的）登记簿；记录，登记，注册；（速度、现金出纳等的）自动登录机，收银机；通风调节设备 v.记录，注册，登记；用挂号方式邮寄；流露（感情等）；（温度计等）显示，（机器）标示，记录 *re  (=back),gist<gest(=carry,bear)   register of voters 选举人名簿   cash register 收银机   register one's car /the birth of a child /a new trademark 给车登记/给孩子办理出生登记/注册新商标 19. registered   adj.注册的，已登记的   regustered desugb / trademark /letter/mail 注册图案/注册商标/挂号信/挂号邮件   registered nurse 注册护士（有证书的护士）（缩写：RN） 20. registrar   n.（美国大学里从事学生注册、核发成绩证明书、学籍管理等工作的）注册主任；户籍员 *re(=back),gist,gest(=carry,bear)   Registrar's Office （美国大学的）学籍科 21. registration   n.登记，注册；登记项目，记录事项   registration number （汽车）牌照号码   registration fee 注册费，登记费 22. registry   n.登记处，注册处；登记簿；登记，注册   marriage at a registry (office) （不举行婚礼的）登记结婚
+【词根】：grad, gress(gred) = to go, to walk（走）   grad和gress 为同源异形根，grad来自拉丁动词gradi 意为to go,to walk（走），step（步）或来自拉丁名词gradus,意为step（步）；gress来自gradi的动名词词干，意思跟
+【词根】grad一样。它们的变形为gred。同义
+【词根】有来自拉丁  语的ced/cess(cead,ceas),it,vad/vas 和来自希腊语的bat(bet,bit)以及来自盎格鲁-撒克逊语的fare。 
+【同源词】：1. degrade（使向下走 de(=down) + grad (=go)）   vt.使降级，阶级...的地位；使堕落，降低...的品格   degradation n.降级；堕落   The financial scandal degraded the bank officers involved. 卷入此次金融丑闻的银行官员们都被降了级。 2. ingredient（进入某物内部 in(=in,into) + gred<grad(=go,step)）   n.（混合物的）成分，材料；要素，要因   Delicious homemade ice cream can be made with a few simple ingredients. 用几样简单的材料就能做出美味的家庭自制冰淇淋。 3. digress（分开走di<dis(=apart) + gress(=go,step)）   vi. from + sth （话、文章等）离题；走向贫道   digression n.离题，脱轨   Tell me what happened,and don't digress the way you usually do. 告诉我发生什么事了，别像你平时那样说跑题了。 4. transgress（超过去trans(=over,across) + gress(=go)）   vt.超过（限制、范围）；违反（法律、条约、合同）   transgression n.违反，违法，（宗教、道德上的）罪   transgressor n.违反者，罪人   It's not my habit to transgress the law,but i do smoke marijuana now and then. 我不是违法成性，不过我确实偶尔会吸大麻。 5. centigrad   adj.（温度计上）百分度的；摄氏的 *cent(=hundred)   centigrade thermometer 摄氏温度计   thirty degrees centigrade 30摄氏度   cf.Fahrenheit 华氏（温度计） 6. gradation   n.阶段性变化，逐渐的变化；（发展的）阶段；层次；程度   gradation of color in the rainbow 彩虹色彩的逐渐变化 7. grade   n.等级；程度；（中、小学的）年级；成绩，分数；倾斜（度） v.分等级；给（答案等）评分；把（路面等）筑平   grademark n.货品质量等级标记   grader n. ...年级学生   a seventh grader 七年级学生   Grade A 最高级的，一流的   grade school 小学   grade teacher 小学教师   tenth grade 十年级   Grade Point Average （缩写：GPA）年级平均成绩，平均积分点   graded by size 根据大小分等级 8. gradient   n.倾斜度；坡度；斜坡   steep gradient 陡坡 9. gradual   adj.逐渐的，阶段性的，循序渐进的；（坡度）平缓的   gradually adv.渐渐地，逐渐地   gradualism n.渐进主义 10. graduate   n.毕业生；学位获得者 adj.有学位的；毕业的；研究生的   v.毕业；（在...上）标刻度；分等级；（蒸发）浓缩   graduation n.毕业，授予学位；毕业典礼   high school graduates 高中毕业生   graduate school 研究生院   Graduate Record Examination （缩写：GRE）美国研究生入党资格考试   graduate student 研究生   graduated ruler 标有刻度的尺子   graduated deterrence （使用战略核武器的）渐进威慑   graduated taxation 累进税 11. postgraduate   adj.大学毕业后的；研究生的 n.研究生 *post(=after)   postgraduate school <英>研究生院   postgraduate student<英>研究生 12. undergraduate   n.大学生（还未毕业的在校生） adj.大学生的   undergraduate work/studies 大学生的学业   in my undergraduate days 我上大学的时候 13. retrograde   adj.后退的，退步的；恶化的，退化的；逆行的 v.倒退；退步，恶化 *retro(=backward)   retrograde motion 逆行   retrograde plolicy 倒退的政策   retrograde cancer 退行性癌症   in a retrograde order 倒序 14. upgrade   v.使升级，提升；提高（产品）质量 n.增加，提高，上升；上坡   on the upgrade 改善的，上升的 15. aggression   n.侵略 *ag,ad(=to ,toward)   war of aggression 侵略战争 16. aggressive   adj.侵略性的；挑衅的，有进取心的 *ag<ad(=to,toward)   aggressor n.侵略者，侵略国   aggressively adv.侵略地，挑衅地   aggressive man 积极进取的人   aggressive weapons 进攻性武器   a man with an aggressive disposition 一个好斗的人 17. congress   n.代表大会；（C~）<美>国会（由the House of Representatives （众议院）和the Senate （参议院）构成）*con<com(=together)   Congressman <美>国会议员（尤其指议员）   Congresswoman <美>国会女议员   the Library of Congress <美>国会图书馆   the Congress of industrial organizations 产业工会联合会（缩写：CIO，1955年与AFL（the American Federation of Labor 美国劳工联合会）合并后改称为AFL-CIO，即美国劳联——产联） 18. congressional   adj.议会的；（C~）美国国会的 *con<com(=together)   congressional debates 国会辩论记录文件   Congressional district <美>国会选区   Congressional Record <美>国会议事录 19. egress   n.外出；出路 *e<ex(=out) 20. ingress   n.进入；入口；准许进入；入境 *in(=into)   means of ingress 入口 21. progress   n.前进，进步；进展，发展；（帝王等的）巡行，巡游 *pro(=forward)   The Pilgrim's Progress 《天路历程》（1678年英国作家John Bunyan （约翰.班杨）的作品   in progress 进行中   make progress 前进；进步 22. progression   n.进步,进展;前进，进行；[数]级数 *pro(=forward)   in geometrical progression 以几何级数 23. progressive   adj.（不断地）前进的，进步的；渐进的，累进的；[美史]（P ~）进步党的 n.进步政策支持者；（P~）进步党党员 *pro(=forward)   progressivism n.进步主义，革新论   progressively adv.进步地   make a progressive advance 进步   progressive taxation 累进税制 24. regress   v.回归；逆行；退回 *re(=back)   regression n.回归；逆行；退回 25. regressive   adj.后退的，退化的；回归的 *re(=back) 26. retrogress   v.后退，退化 *retro(=backward) 27. retrogression   n.后退，退化 *retro(=backward)   retrogressive adj.后退的,退化的 28. gravigrade   adj.走路时步伐很重要的（走路很重）《gravi = heavy》 29. digress   v.离题（离去）《di- = apart》   digressive adj.离题的；技节的
+【词根】：gross = large, thick   盎格鲁-撒克逊语的gross 意为large,thick,它的变形为groc。 
+【同源词】：1. engross（使变厚en(=make) + gross(=thick,large)   vt. sb + in + sth 占用（时间），吸引（注意力），使全身贯注；用大字体清晰或端正地书写（或誊写）   engrossment n.全神贯注，专注；（誊写成文的）文件   engrossing adj.使人全神贯注的；非常有趣的   Detective fiction invariably engrosses me. 侦探小说总是很吸引我... 2. gross   adj.总的，总体的，全部的；臃肿的（以至看起来令人生厌）；（错误、不正当行为等）严重的；不雅的，粗俗的；（食物）粗劣的；（植物）茂盛的，茂密的 v.总共收入...   grossly adv. 非常，很   gross national product 国民生产总值（缩写：GNP）   gross domestic product 国内生产总值（缩写：GDP）   his gross income 他的总收入   the gross vegetation of the tropical rain-forest 热带雨林的茂密植物 3. grocer   n.食品商，杂货商 4. grocery   n.食品店；(pl.)食品，杂货，食品杂货业
+【词根】：glob = sphere   来自拉丁语的glob 意为sphere。
+【同源词】：1. global （球的、球体的 glot(=sphere)   adj.全求的，全世界的；总体的，全体的；球体的   Global communication becomes more efficient every year.全求通讯的效率每年都在提高。 2. globe   n.球；地球仪；用玻璃等做的球状物（如球形灯、鱼缸等）；（the~）地球   globefish 河豚   globe-trot 环球旅行   globe-trotter 环球旅行者 3. globule   n.小球；小滴；药丸 *ule(=small)   globular 球状的；由小球组成的1 2 3 4 5 6  
+
+
+
+1 2 3 4 5 6 
+【词根】：grat (grac) = thankful, pleasing（喜好）   
+【词根】grat来自拉丁语的grat意为thankful,pleasing 等。grac是它的变形。    （*拉丁文gratus(=pleasing),gratia(=favour)——英文字根字典）
+【同源词】：1. gratuitous adj.免费的，无报酬的；没有理由的（作为感谢而做的grat(=thank,pleasing)）   gratuity n. 遗散费；（军人的）退役金   Your gratuitous cruelty is abominable.I've had enough!你那无端的残忍在令人生厌，我已经受够了！ 2. ingratiate vt.(~oneself)使满意，讨好，迎合 （使对方感到好感in(=in) + grat (=thank,pleasing,favor)）   Despite my lack of credentials,I ingratiated myself with the hiring manager.虽然我不够资格，但我逢迎了招聘主管，使其对我满意。 3. congratulate v.祝贺 *con<com(=together)   congratulatory adj.祝贺的 congratulatory letter/telegram 贺信/贺电 4. congratulation n.祝贺；庆贺；(pl.)祝词 *con<com (=together)   Congratulations !祝贺；offer one's congratulations to 对...说祝贺的话 5. ungrateful adj.忘恩负义的，不知感谢的 *un (=not) 6. grateful adj.感谢的，感激的；令人高兴的，令人愉快的   I am grateful to you for your kindness.谢谢你的好意。   grateful letter 感谢信；trees that afford a grateful shade 有宜人荫凉的大树 7. gratis adv./adj.免费地（的）   be admitted gratis 免费入场 8. gratitude n.感谢，谢意   in token of my gratitude 为表达我们的一片谢意 9. grace n.优雅；好意，恩惠；（饭前、饭后的）谢恩祈祷；（神的）恩宠；慈悲；阁下，阁下夫人；（票据等的）宽限期         v.使优雅；使增光   graceful adj.优雅的 graceful dancer 优雅的舞蹈家；graceless难看的；粗俗的，不知礼的；graceless behavior 粗俗的行为；gracious 亲切的；慈悲的；her gracious Majesty the Queen 女王陛下 10. disgrace n.丢脸，耻辱；失宠             v.使丢脸，玷污；使失宠 *dis(=not)   disgraceful 可耻的；disgraceful behavior可耻的行为 11. ingrate n.忘恩负义的人 (in- = not)    ingratitude n.忘恩负义 12. ingratiate v.讨好；逢迎（使高兴向着某人）《in- = toward》    ingratiation n.讨好；巴结
+【词根】：gyn-, gyno-, gynec-, gyneco- = 妇女gynecology [gyneco妇女，-logy…学]妇科学，妇科 gynecologist [见上，-ist人]妇科医生 gynecian [gynec妇女，-ian…的]妇女的，妇人的
+【词根】：gen, gener, genit = birth, produce, 表示“出生, 产生”generate v. 产生；发电（genner+ate →产生[电]等） generation n. 产生；一代（(generate+ion) generator n. 发电机；生殖者（generate+or→产生[电]的东西→发电机） regenerate v. 再生，重生（re再+generate) general a. 普通的n.总论（gener+al→出生[一般]→普通的） generalization n. 一般化（general+ization) generous a. 慷慨的；丰富的（gener+ous→[不断]产生→丰富的，慷慨的） generosity n. 慷慨（gener+osity多的状态→多产生→慷慨） degenerate v. 堕落；衰退（de坏+gener+ate→往坏产生→堕落） degenerative a. 退化的；变坏的（degenerate+ive) genesis n. 起源，创始（gen+esis名词
+【后缀】，原指《圣经》中的创世纪） genetic a. 基因的，遗传学的（gen+etic→来自gene基因） genus n. 种类，类属（gen+us→生出来就出现[不同]→种类） generic a. "科属的（gen+eric,来自genus种类）" genuine a. 真正的，纯正的（genu+ine→产生→来源清楚→真正的） ingenuous a. 天真的；老实的（in内+genu+ous产生自内心→天真的） genius n. 天才（geni+us→生出[就有]→天才） ingenious a. 聪明的； 有创造力的（ in内+geni+ous自内心产生→聪明的） eugenics n. 优生学（eu好+gen+ics→产生好的→优生学） pathogeny n. 病原学（patho病+geny→产生病→病原学） congenial a. 意气相投的（con共同+gen+ial→产生共同[兴趣]→情投意合的） congenital a. 天生的，与生俱来的（con共同+gen+ital→与生俱来→天生的） primogenitor n. 始祖，祖先（primo最初+genit+or→最初产生的人→祖先） progeny n. 子孙，后代（pro向前+geny→向前产生→生命向前→子孙） genial a. 和蔼的；愉快的（gen+ial→产生[感情]的→和蔼的） indigenous a. 土产的，土著的（indi内部+gen+ous→内部产生→土产的） heterogeneous a. 不同的（hetero异+gen+eous→产生不同的） homogeneous a. 同种的（homo同+gen+eous→产生相同的） genre n. 类型；流派（通常指文学等类型） genteel a. 高雅的；有礼貌的（gent+eel→出身好的→高雅的；gentle“温柔的”变体） engender v. 产生（en使+gender产生→使产生）
+【词根】：gest, gister = carry, bring, 表示“带来, 产生”gesture n. 姿势；手势（gest+ure→带来信息的动作→手势） gesticulate v. 做手势（gest[=gesture]+iculate表动作） congest v. 充满，拥挤（con共同+gest→带到一起→拥挤） copngestion n. 拥挤，稠密（congest+ion) digest v. 消化；摘要（di分开+gest→分开带→[把营养]带到身体→消化） digestion n. 消化（digest+ion) indigestion n. 消化不良（in不+digestion消化） suggest v提议，建议（sug在下面+gest→从下面带上来→建议） suggestion n. 建议；暗示（suggest+ion) register v. 登记，注册（re再次+gister→再次带来→[学员]注册，登记） registration n. 记录，注册（register+ation=registration)
+【词根】：gnos, gnost, gnor = know, 表示“知道”gnosis n. 灵知（gnos+is) diagnosis n. 诊断（dia 穿过+gnos+is→穿过[身体]知道→诊断） prognosis n. 预测，诊断（pro在前+gnost+is→预先知道→预测） prognostic a. 预兆的n.征兆（ pro+gnost+ic) agnostic a. 不可知论的（a不+ gnost+ic→不知道的） ignore v. 疏忽；不理睬（I不+geore→不知道→不理睬） ignorance n. 无知，愚昧（ignore+ance) ignoramus n. 不学无术的人（ignore无知+amus表示人或物→无知的人）
+【词根】：gon = angle, 表示“角”trigon n. 三角形（tri三+gon) perigon n. 周围，360角(peri周围+gon) pentagon n. 五角形；五角大楼（penta五+gon) diagonal n. 对角线（dia对着+gon+al)
+【词根】：grad = step, grade, 表示“步, 级”grade n. 等级，阶级 gradient a. 步行的n. 坡度（grad+ient) gradation n. 等级；层次（grad+ation) gradual a. 逐步的（grad+ual) graduate v. 毕业；分级（grade 步+uate→完成所有步骤→毕业） graduation n. 毕业（graduate+ion) degrade v. 降级；退化（de向下+grade→向下降级） degrading a. 不名誉的，可耻的（de+grad+ing→向下降了→不名誉的） retrograde v. 退步；堕落（retro向后+grade→向后退步） upgrade v. 上升，升级（up向上+grade→向上升级） downgrade v. 贬低，降低（down向下→ grade→向下贬低） centigrade a. 百分度的（ centi百+grade级，度）
+【词根】：graph, gram = write, 表示“写, 图”biography n. 传记（文学）(bio生命+graph+y→写生命→传记） biographer n. 传记作家（biography+er) epigraph n. 文前题词（epi在旁边+graph→在旁边写的字→题词） autograph n. 亲笔字（auto自己+graph→自己写的字→亲笔字） monograph n. 专题论文（mono一个+graph→讨论一个问题的论文→专题论文） photograph n. 相片（photo光+graph→用光写→相片） lexicography n. 辞典编纂（lexico词，词曲+graphy) topography n. 地形学（topo地方，场所+graph写+y→写地方→地形学） telegraph n. 电报（tele远+graph→从远方写来→电报） stenographer n速记员（steno狭小+graph写+er→缩小了写→速记） dictograph n侦听器（dicto说+graph→把说的写下→侦听器） epigram n. 警句，格言（epi在…后面+gram→在[书后]写→格言） epigrammatic a. 警句的；简洁的（epigram+atic) program n. 计划；提纲；程序（pro在前+gram→在前面写好→计划；提纲） gramophone n留声机（gram+o+phone 声音→写下声音→留声机） grammar n. 语法，文法（gram+mar→写的[规则]→语法） diagram n. 图解，图表（dia交叉+gram→交叉画图） cryptogram n. 密码（crypto秘密+gram→秘密写→密码） seismogram n. 地震图（seismo地震+gram)
+【词根】：grat, gree = pleasing, 表示“感激, 高兴”gratitude n. 感激，感恩（grat+itude状态） gratuity n. 赏钱；赠品（grat+uity→因感激给→赏钱→小费） gratuitous a. 无缘无故的； 免费的（来自gratuity赏钱，给小费可多可少，所以“无缘无故的”） ingratiate v. 迎合，讨好（in进入+grat+iate→使[别人]进入高兴→讨好[别人]） ingratiating a. 讨好的，诌媚的（ingratiate+ing) gratify v. 使满足；喜悦（grat+ify使…→使[人]满足，高兴） gratification n. 满足；喜悦（gratify+ication) grateful a. 感谢的；愉快的（grate+ful多…的） ingrate n. 忘恩负义之人（in不+grate→不感激→忘恩负义） grace n. "优美，文雅（grace=grat,感激别人态度一定好，所以grace有了“文雅”的意义）" gracious a. 文雅的；亲切的（grace+ions) agreeable a. 愉快的；适意的（a+gree=able;agree“同意”） agreement n. 协议；一致（agree+ment) disagree v. 不一致，争执（dis不+agree同意）
+【词根】：grav, griev = heavy, 表示“重"grave a. 重大的，庄重的 aggravate v. 加重，恶化（ag加+grav+ate→加重） aggravation n. 恶化，加重（aggravate+ion) gravity n. 庄重；地心吸力（grav+ity) gravitate v. 受重力作用下沉（grav+itale→变重） gravitation n. 引力；倾向（gravitate+ion) gravid a. 怀孕的（grav+id→重的样子→怀孕的） gravida n. 孕妇（grvid+a) grief n. 悲伤，心情沉重 grieve v. 使悲伤 grievous a. 悲伤的；严重的（griev+ous) aggrieve v. 使烦恼；伤心（ag增加+grieve加重→烦恼） grievance n. 牢骚，苦水（griev悲伤+ance→说悲伤的话→牢骚）1 2 3 4 5 6  
+
+
+
+2 3 4 5 6 7 
+【词根】：greg = group, 表示“群体”gregarious a. 群居的； 爱社交的（greg+arious爱…的→爱群体的） aggregate v. 合计；聚集（ag增加+greg+ate→增加团体→聚集） aggregation n. 聚集物（aggregate+ion) congregate v. 聚集（con共同+greg+ate→共同集会） disaggregate v. 分解；分离（dis分+aggregate聚合→聚合的东西分开→分解） egregious a. 过分的；不寻常的（e出+greg+iuos→出了一般团体→过分的） segregate v. 分开，隔离（se分开+greg+ate→和群体分开） segregation n. （种族）隔离（segregate+ion)
+【词根】：gress = .go, walk, 表示“行走”aggression n. 侵略，攻击（ag再→gress+ion→走了还走→攻击侵略） aggressive a. 侵略的；进取的（ag+gress+ive) congress n. 国会，代表大会（con共同+gress→走到一起→代表大会） degress v. 离题（di偏离+gress→走偏离→离题） digression n. 离题，枝节话（digress+ion) progress n. 进步；进行（pro向前+gress→向前走→前进） progressive a. 进步的（progress+ive） transgress n. 超过；违背（trans横+gress→横着走→违背） transgression n. 违法（transgress+ion) egress n. 出口，出路（e 出+gress→走出→出口） ingress n. 进口，入场（in进+gress→走进→进口） retrogress v. 倒退，退步（retro向后+gress→倒退）
+【词根】：gyn, gynec = woman, 表示“妇女”gynarchy n. 妇女专政（grn+archy统治） androgyny n. 半男半女（andro男+gyny女→不男不女） monogyny n. 一妻制（mono一个+gyny→一个女人→一妻制） misogynist n. 厌恶女人者（miso恨+gynist→恨女人者） philogynist n. 喜爱女人者（phito爱+gyn+→爱女人者） gynecology n. 妇科学（gyneco+logy学科）
+【词根】：gam = marriage, 表示“婚姻”monogamy n. 一夫一妻制（mono一个+gam+y→结婚一次→一夫一妻制） bigamy n. 重婚罪（bi二次+gam+y→二次婚→重婚） endogamy n. 内部通婚（endo内部+gam+y） misogamy n. 厌恶结婚（miso恨，厌恶+gam+y）
+【词根】：gar, garn = furnish, 表示“装饰, 供应”garment n. 衣服，外衣（gar+ment表名词→装饰的东西→衣服） garnish v. 装饰；加配菜（garn+ish表动词） garrison n. 城堡驻军（garr+ison表动词→供应物资的驻军）
+【词根】：germ = seed, 表示“种子”germ n. 细菌 gwrmane a. 关系密切的（来自同一品牌→关系密切的） germminate v. 发芽，发育（germin[=germ]+ate表动词→种子动→发芽）
+【词根】：glaci- = glacial表示“冰, 冰川”glacial a. 冰河的；冰冷的 glaciate v. 使冰冻（glaci+iate） glaciology n. 冰川学（glaci+o+logy学科）
+【词根】：gloss, glot = tongue表示“舌头”, 引申为“词语”ciglossia n. 双语制的（di二+gloss+ia） glossary n. 难词表（gloss+ary表名词） polyglot a. 使用多种语言的（poly多+glot） diglot a. 使用两种语言的（di二个+glot）
+【词根】：gran = grain, 表示“颗粒”granary n. 粮仓，谷仓（gran+ary表场所→放粮食颗粒的地方） granivorous a. 食谷的（gran+I+vor吃+ous→吃粮食的） granule n. 颗粒，细粒（gran+ule表示小东西） granulate v. 使成颗粒（granule颗粒+ate）
+【词根】：gain = against （反对）gainsay 否认 against 反对2 3 4 5 6 7  
+
+
+
+3 4 5 6 7 8 
+【词根】：galax = milk （乳）galaxy 欢蹦 ，跳跃（用腿蹦跳）
+【词根】：garr = chatter （唠叨）garrulous 唠叨的
+【词根】：gastr = stomach （胃）gastric 胃的 gasreitis 胃炎
+【词根】：genu = knee （膝盖）genuflection 曲膝
+【词根】：ger = bear （带有）belligerent 好斗的（bell战争）
+【词根】：glomer = ball （球）conglomerate 合并，联合 glomerulus 小球
+【词根】：glut = devour （吞吃）glut 吞吃 glutton 饱食者（gluttony 暴饮暴食）
+【词根】：gorg = throat （喉）qorge 吞咽，峡谷 gorgeous 壮观的；美丽的
+【词根】：gross = great （大）engross 正式写成（议案、决议等）；大量（或全部）收买，独占 gross 总共的；重大的
+【词根】：gymn = naked 裸体的gymnasium 体育馆（脱衣服锻炼的地方)3 4 5 6 7 8  
+
+
+
+4 5 6 7 8 9 
+【词根】：grad grad =step，go，grade步，走，级 gradual [grad步，-ual形容词
+【后缀】，…的] 逐步的，逐渐的 retrograde [retro-向后，grad步，行走;’向后走”] 后退，退步，逆行 retrogradation [见上，-ation名词
+【后缀】] 后退，退步，逆行 graduate [grad步，级，-u-，-ate动词
+【后缀】;’在学业上走完某一步”，’在学业上完成某一级”] 毕业;[转为] 毕业生 graduation [见上，-ation名词
+【后缀】] 毕业 undergraduate [under-低于，不够，不到，不足，graduate毕业生] 沿未毕业者，大学肄业生 postgraduate [post-后，在…之后，见上] 大学毕业后的;研究生 degrade [de-下，向下，grad步，走，级;’往下走”，’降级”] 下降，堕落，退化，使降级，贬黜 degradation [见上，-ation名词
+【后缀】] 堕落，退化，降级，贬黜 grade 等级，年级，级别，阶段，程度 gradation [见上，-ation名词
+【后缀】] 等级，分等，分级 upgrade [up上，grad步，级] 上升，升级，提升，上坡 downgrade [down下，grad步，级] 降低，贬低，降级，下坡 gradine [grad步，级→阶梯，-ine名词
+【后缀】] 阶梯的一级，阶梯座位的一排
+【词根】：gram gram =write，something written of drawn 写，画，文字，图形 grammar [gram写，文字，m重复字母，-ar名词
+【后缀】;关于’文字的法则] 语法，文法 grammarian [见上，-ian名词
+【后缀】，表示人] 语法学家，文法家 grammatical [见上，-atical形容词
+【后缀】，…的] 语法的，属于语法上的 diagram [dia-对穿，gram画;’上下左右对穿画线”] 图解，图表 diagrammatic [见上，-atic形容词
+【后缀】，…的] 图表的，图解的 telegram [tele远，gram写，文字;’从远方通过电波传来的文字”] 电报 program [pro-在前面，gram写-书，表，单;’写在前面的说明文字”] 节目单，戏单，说明书，大纲，方案 cryptogram [crypto隐，秘密，gram写，文字] 密码，密码文，暗记 parallelogram [parallel平行的，gram图形;’对边平行的图形”] 平等四边形 gram [gram写→刻写;在重量计上所’刻写”的一个符号→重量单位] 克(国际重量单位) kilogram [kilo-千，gram克] 千克，公斤 gramophone [gram写→记录，-o-，phon声音;’记录声音”的仪器] 留声机 phonogram [phon声音，-o-，gram文字] 音标文字，表音符号;唱片，录音片 hologram [holo全，gram画，图形] 全息图 seismogram [seismo地震，gram画，图形] 地震图 electrocardiogram [elector电，cardi心，-o-gram图] 心电图
+【词根】：graph graph =write，writing，an instrument for making records 写，画，文字，图形，记录器 photograph [photo光，影，graph写→记录;’把实物的影像录下来”] 照相，拍照，摄影，照片 phototgraphy [见上，-y名词
+【后缀】] 摄影术 autograph [auto-自己，grahp写;’自己写的”，亲自写的] 新笔，手稿 geography [geo地，大地，graph写→论述，-y名词
+【后缀】;’关于大地的论述”] 地理学，地理 biograph [bio生命，graph写，文字→论述，-y 名词
+【后缀】；’一人生平的记录”] 传记 autobiography [auto-自己，biography传记] 自传 ideograph [ideo意，graph写，文字] 表意文字，意符 historiography [histori历史，-o-，graph写，编写] 编史工作 orthography [ortho正，graph写，写字] 正字法 monograph [mono-单一，一种，graph写，论述] 专题论文，专题著作 pseudograph [pseudo-假，伪，graph写，文字→作品] 伪书，冒名作品 polygraph [poly-多，graph写，写作，书写器] 多产作家，复写器 micrograph [micro-微小，graph图形] 显微图，微观图 macrograph [macro-宏大，graph图形] 宏观图，肉眼图 seismograph [seismo地震，graph记录器] 地震记录仪 barograph [baro重，压→气压，graph记录器] 气压记录器 chronograph [chrono时，graph记录器] 记时器，录时器 stereograph [setreo立体，graph画→图像→照片] 立体照片 telegraph [tele远，graph写，文字;’从远方通过电波传来的文字”] 电报; [graph书写机] 电报机 cyclograph [cyclo圆，graph画描器] 画圆器，圆弧规 holography [holo-全，graphy描画，描记法] 全息摄影(术) graphics [graph画，图，-ics…学] 制图学，制图法
+【词根】：gress gress =go，walk行走 progress [pro-向前，gress行走] 前进，进步 progressive [见上，-ive形容词
+【后缀】，…的] 前进的，进步的 progressist [见上，-ist表示人] 进步分子 retrogress [retro-向后，gress行走] 后退，退步，退化 retrogression [见上，-ion名词
+【后缀】] 倒退，退步，退化 retrogressive [见上，-ive形容词
+【后缀】，…的] 后退的，退步的，退化的 congress [con-共同，一起，gress走，来到;’大家走到一起来”→共聚一堂→开会→会议] (代表)大会，国会，议会 congressional [见上] (代表)大会的，国会的，议会的 congressman [见上] 国会议员 aggress [ag-=at，to向，gress走;’走向”→来到→副近→闯来→进攻] 侵略，侵入，攻击 aggression [见上，-ion名词
+【后缀】] 侵略，入侵 aggressive [见上，-ive形容词
+【后缀】，…的] 侵略的 aggressor [见上，-or表示人] 侵略者 egress [e-外，出，gress行走] 出去，离去，外出 egression [见上，-ion名词
+【后缀】] 出去，离去，外出 ingress [in-入内，gress行走] 进入 ingression [见上，-ion名词
+【后缀】] 进入 transgress [trans超过，gress行走] 超过(限度、范围等)，越界，违反，犯法 transgressor [见上，-or表示人] 犯法者，违反者 digress [di-=dis-离开，gress行走;’离正道而行”] 离开主题，入歧路 regress [re-回，向后，gress行] 退回，返回，退后，退步
+【词根】：gam 婚姻monogamy [mono-单一，gam婚姻，-y名词
+【后缀】;’单婚”，一夫一妻] 一夫一妻制 monogamous [mono-单一，gam婚姻，-ous形容词
+【后缀】，…的] 一夫一妻制的 bigamy [bi-双，重，gam婚姻，-y名词
+【后缀】] 重婚(罪) bigamous [bi-双，重，gam婚姻，-ous…的] 重婚的，犯重婚罪的 bigamist [bi-双，重，gam婚姻，-ist…的] 犯重婚罪的 polygamy [poly-多，gam婚姻，-y名词
+【后缀】] 多配偶，一夫多妻，一妻多夫 misogamy [miso-厌恶， gam婚姻，-y名词
+【后缀】] 厌恶结婚，厌婚症 misogamist [见上，-ist者] 厌恶结婚者 neogamist [neo-新，gam结婚，-ist者] 新婚者 exogamy [exo-外，异，gam婚姻，-y名词
+【后缀】] 与外族结婚，异族结婚
+【词根】：gran 谷物, 谷粒granary [garn谷物， -ary表示场所，地点] 谷仓，粮仓，产粮区 grange [gran谷物;’生产谷物的地方”] 农场，农庄，田庄 granger [见上，-er表示人] 田庄里的人，农民 granule [gran谷物，-ule表示小;’小谷粒”] 细粒，颗粒 granulate [见上，-ate动词
+【后缀】，使…] 使成颗粒，使成粒状 granular [见上，-ar…的] 颗粒状的 granularity [见上，-ity名词
+【后缀】] 颗粒状
+【词根】：grav 重gravid [grav重，-id…的;’负重的”，’重身子”，’heavy with child”] 怀孕的，妊娠的 gravidity [见上，-idity抽象名词
+【后缀】] 怀孕，妊娠 gravida [见上，-a名词
+【后缀】] 孕妇 grave [grav重] 重大的，严重的 gravity [见上，-ity抽象名词
+【后缀】] 严重，严重性，庄重，重力，重量 gravimeter [grav重，-i-，meter计] 比重计，重差计，测重器 gravitate [grav重，重力，-ate动词
+【后缀】] 受重力作用 gravitation [grav重力，-ation名词
+【后缀】] 重力，地心吸力，万有引力 gravitative [见上，-ative…的] 受重力作用的，重力的 aggravate [ag-加强意义，grav重，-ate动词
+【后缀】] 加重 aggravation [见上，-ation名词
+【后缀】] 加重，加剧 agravie [a-无，grav重，重力，-ie…的] 无重力情况的 ingravescent [in-加强意义，grav重，-escent形容词
+【后缀】，表示’逐渐…的”] (病等)越来越重的 grieve [griev=grav重;’心情沉重”] 悲伤，悲痛，使悲伤，使悲痛 grief [见上，名词] 悲伤，悲痛
+【词根】：greg 群, 集合gregarious [greg群，-ous…的] 群居的，群集的 aggregate [ag-加强意义，greg集合，-ate动词兼形容词
+【后缀】] 合计，总计;聚集的，合计的 aggregation [见上，-ation名词
+【后缀】] 聚集，聚集物 congregate [con-共同，greg集合，-ate动词兼形容词
+【后缀】] (使)集合;集合在一起的，集体的 congregation [见上，-ation名词
+【后缀】] 集合，会合，集会，人群 egregious [e-出，外，greg群，众，-ious…的;’出众的”] 异乎寻常的 segregate [se-分开，离开，greg群，-ate动词
+【后缀】;’离群”，’离开集体”] (使)分离，(使)分开，使隔离 segregation [见上，-ation名词
+【后缀】] 分开，离群，隔离 segregationist [见上，-ist者] (种族)隔离主义者
+【词根】：gyn, gynec(o) 妇女gynecology [gyneco妇女，-logy…学] 妇科学，妇科 gynecologist [见上，-ist人] 妇科医生 gynecoid [gynec妇女，-oid如…的] 如妇女的，有女性特征的 gynecian [gynec妇女，-ian…的] 妇女的，妇人的 androgyny [andro男，gyn女，-y名词
+【后缀】] 具有男女两性，半男半女 philogyny [philo爱好，gyn妇女，-y名词
+【后缀】] 对女人的爱好，爱女人 philogynist [见上，-ist人] 喜爱女人的人 misogyny [miso厌恶，gyn妇女，-y名词
+【后缀】] 厌女症，厌恶女人 misogynic [见上，-ic…的] 厌恶女人的 misogynist [见上，-ist人] 厌恶女人的人 monogyny [mono-单一，一个，gyn妇女→妻，-y名词
+【后缀】] 一妻制 monogynous [见上，-ous…的] 一妻制的 polygyny [poly-多，gyn妇女→妻，-y名词
+【后缀】] 多妻，一夫多妻制 polygynous [见上，-ous…的] 一夫多妻的
+【词根】词缀：galacto-, galact-, -galaxy
+来源及含义：Greek: milk
+【相关】
+Related "milk" unit: 
+lacto-.
+【同源】agalactia, agalactorrhea, agalactosis, agalactous, agalorrhea, androgalactozemia4 5 6 7 8 9  
+
+
+
+5 6 7 8 9 10 
+【词根】词缀：galeo-, galea-, galeat-, galei-, galer-
+来源及含义：Latin: helmet, helmet shaped, to cover with a helmet; cap; used primarily in zoology and botany with phases of sense development that seem to have been: weasel, weasel's skin or hide, leather, and then a helmet made of leather; by extension, it also means "cat, cats" in some words
+【相关】Cross references of word families that are related directly, or indirectly, to: "cat": 
+aeluro-, eluro-;
+cat;
+feli-, felin-;
+gato-.
+【同源】galea, galeanthropy, galeated, galeiform, galeomania, Galeomorphil
+【词根】词缀：gallo-, Gall-
+来源及含义：Latin: of or pertaining to Gaul
+【同源】Gallic, Gallomania, Gallophile, Gallophilia, Gallophobe, Gallophobia
+【词根】词缀：galvano-, galvan-
+来源及含义：Named after the Italian physician and physicist who investigated the nature and effects of what he conceived to be electricity in animal tissue; who in 1762 discovered and first described voltaic electricity; electric currents; and primarily, direct electrical current.
+【相关】
+A cross reference of word units that are related, directly and/or indirectly, with "electricity":
+electro-;
+hodo-;
+ion-;
+piezo-;
+-tron;
+volt;
+biomechatronics, info;
+mechatronics, info.
+【同源】electrolysis, Galvani, galvanic, galvanic battery, galvanic corrosion, galvanic couple
+【词根】词缀：gameto-, gamet-
+来源及含义：Greek: from gamet[e], "wife" and gamet[es], "husband" [from gamein, "to marry"]; used chiefly as "pertaining to a gamete, a mature reproductive cell"
+【相关】
+A cross reference of word units that are related, directly or indirectly, to "cell, cells, cell nucleus":
+celli-;
+cellulo-;
+cyto-;
+endothelio-;
+glio-;
+kary-, karyo-;
+neuro-.
+【同源】agamete, gametophore, gynogametangium, gynogamete, heterogamete, homogamete
+【词根】词缀：gamo-, gam-, -gamy, -gamous
+来源及含义：Greek: marriage, union; wedding; pertaining to sexual union
+【同源】adelphogamy, agamete, agamic, agamist, agamodeme, agamogenesis
+【词根】词缀：ganglio-, gangli-
+来源及含义：Greek > Latin: swelling, a knot; center of a cavity; nerve center; pertaining to a mass of nerve tissue
+【相关】According to Galen [Galenius or  Galenos], Clausius [Clarissmus], a Greek physician and medical scientist in Rome c. A.D. 130-201; the proper sense of the element is "anything gathered into a ball," conglobatus.
+【同源】ganglia, gangliated, gangliform, ganglion, ganglionated, ganglionectomy
+【词根】词缀：gangren-
+来源及含义：Greek: an eating, or gnawing, sore ending in mortification, necrosis, or the death of bodily tissue; usually the result of ischemia or the loss of blood supply to the affected area, bacterial invasion, and subsequent putrefaction
+【同源】dry gangrene, gangrenate, gangrene, gangrenosis, gangrenous, gangrenous cellulitis
+【词根】词缀：garrul-
+来源及含义：Latin: overly talkative, loquacious, chattering
+【同源】garrulate, garrulist, garrulity, garrulous, garrulously, garrulousness
+【词根】词缀：gastr-, gastro-, gaster-, gastero-, gastri-, -gastria-
+来源及含义：Greek: stomach, belly
+【同源】aerogastria, agastria, agastric, amphigastrium, amphigastrula, arachnogastria
+【词根】词缀：-gate
+来源及含义：Latin: a suffix; from agere to set in motion, to drive, to lead; to do, to act
+【同源】abnegate, abrogate, aggregate, alligate, arrogate, bifurgate5 6 7 8 9 10  
+
+
+
+6 7 8 9 10 11 
+【词根】词缀：gato-
+来源及含义：Latin [cattus] > Spanish: cat, cats
+【相关】Cross references of word families that are related directly, or indirectly, to: "cat": 
+aeluro-, eluro-;
+cat;
+feli-, felin-;
+galeo-.
+【同源】gatomania, gatophilia, gatophobia
+【词根】词缀：gaud-
+来源及含义：Latin: feeling of pleasure and delight; joy, rejoice
+【同源】Dum felis dormit, enjoy, enjoyable, enjoyably, gaud, gaudiloquent
+【词根】词缀：gehenna-
+来源及含义：Hebrew > Greek > Latin: hell or hellfire
+【相关】Moloch [MOH luhk] or Molech (Hebrew, melech: king). He was the god of the Ammonites, to whom children were made "to pass through the fire" as sacrifices. Children were dedicated ("passed over") and burned to Molech at the Tophet in the Valley of Hinnom near Jerusalem.During the monarchical period of the Hebrews, the site was an infamous high place (called "topheth" and derived from an Aramaic word meaning "fireplace"), where some of the kings of Judah engaged in forbidden religious practices, including human sacrifice by fire; as mentioned earlier.Probably because of these associations with fiery destruction and judgment, the word "Gehenna" came to be used metaphorically as a designation for hell or eternal damnation. As such, Gehenna is to be distinguished from Hades, which is either the bode of all the dead in general or the place where the wicked await the final judgment. In the New Testament, Gehenna designates the place or state of the final punishment of the wicked. It is variously described as a fiery furnace, an unquenchable fire, or an eternal fire prepared for the devil and his angels.
+【相关】
+Cross references of word groups that are related, directly, indirectly, or partly to: "fire, burn, glow, or ashes": 
+ars-, ard-;
+-bust;
+cand-, cend-;
+caust-, caut-;
+crema-;
+ciner-;
+ether-;
+flagr-;
+flam-;
+focus, foci-;
+fulg-; 
+ign-;
+phleg-;
+phlog-;
+pyreto-, -pyrexia;
+pyr-;
+spod- (ashes; waste);
+volcan-.
+【同源】gehenna, gehenne, gehennical
+【词根】词缀：gel-, gela-, gelati-, gelatino-, geli-,  gelo-
+来源及含义：Latin: to freeze; frosting; cold; then, to congeal, and finally: gelatin
+【相关】Later it came to mean "to congeal"; having to do with "congealing" or with "gelatin, a protein derived from the partial hydrolysis of animal skin, connective tissue, and bone".Don't confuse words from this Latin element with those from Greek gelo-, geloto-, meaning "laugh, laughing, laughter".
+【相关】
+Cross references of word families that are related directly or indirectly to "winter, freezing, frost, and/or cold": 
+algid- (cold, chilly);
+cheimo-, chimo- (winter, cold);
+crymo-, krymo- (cold, chill, frost);
+cryo-, kryo-; (cold, freezing);
+hiber- (winter, wintry);
+pago- (cold, freezing);
+psychro- (cold);
+rhigo- (cold, frost; shiver).
+【同源】aerogel, gel, gelase, gelasis, gelate, gelatification
+【词根】词缀：gelo-, geloto-
+来源及含义：Greek: laugh, laughter, laughing
+【相关】Don't confuse words from this Greek element with those from Latin gel-, gelat-, gelati-, meaning "freeze; congeal; gelatin".For other laugh, laughter words, click on this  cachinnate link.
+【同源】agelast, dacrygelosis, gelasmus, gelastic, gelastic epilepsy, gelatologist
+【词根】词缀：gemin-
+来源及含义：Latin: twin; double
+【同源】bigeminal, Gemini, geminiflorous, geminous, trigeminal, trigeminy
+【词根】词缀：gemm-, gemmu-, gemmi-
+来源及含义：Latin: bud
+【同源】circumgemmal, gemma, gemmiferous, gemmiparous
+【词根】词缀：genio-, geni-, geny-
+来源及含义：Greek: chin, jaw, cheek
+【同源】genial, geniocheiloplasty, genioglossal, genioglossus, geniohyoid, genion
+【词根】词缀：geno-, gen-, genit-, gener-, -gen
+来源及含义：Greek > Latin: race, kind; line of descent; origin, creation; pertaining to sexual relations, reproduction, or heredity; and more recently, a gene or genes
+【同源】abiogenesis, abiogenetic, abiogenetically, abiogenous, acrogen, acrometagenesis
+【词根】词缀：genu-, geni-, gen-
+来源及含义：Latin: knee
+【同源】genicular, geniculate, geniculum, genu, genual, genuclast6 7 8 9 10 11  
+
+
+
+7 8 9 10 11 12 
+【词根】词缀：genus, genesis-, -gen, -gene, -genesis, -genetic, -genic, -geny,  -genous
+来源及含义：Latin: birth, beget; descent, origin, creation, inception, beginning, race, sort; kind, class
+【同源】aerospace engineering, agenesis, autogenous, benign, benignant, benignantly
+【词根】词缀：geo-, ge-
+来源及含义：Greek: earth, land, soil; world; Gaia (Greek), Gaea (Latin), "earth goddess"
+【相关】Available for further enlightenment: the Earth, Words from the Myths.
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+agra-;
+agrest-;
+agri-;
+agro-;
+argill-;
+choro-;
+chthon-;
+epeiro-;
+glob-;
+lut-;
+myso-;
+pedo-;
+pel-;
+rhyp-;
+soil-;
+sord-;
+terr-.
+【同源】ageotropic, ageotropism, agrogeological, agrogeologist, agrogeology, amphigean
+【词根】词缀：gephyr-, gephyro-
+来源及含义：Greek: bridge
+【同源】gephyromania, gephyrophobia
+【词根】词缀：ger-, ges-, gest-
+来源及含义：Latin: carry, produce; to bear
+【相关】Don't confuse this ger- with another Greek gero-, ger- which means "old age".
+【相关】
+Cross references of word families related to "bear, carry, bring": 
+duc-; 
+-fer;  
+later-, -lation; 
+phoro-;
+port-.
+【同源】autosuggestion, belligerence, belligerency, belligerent, belligerently, cobelligerent
+【词根】词缀：germ-, germi-
+来源及含义：Latin: bud, sprout, a growing thing in its early stages
+【同源】biological warfare, germ, germ cell, germfree, germicidal, germicide
+【词根】词缀：german-, germano-
+来源及含义：Latin: pertaining to the Teutonic people of central Europe [possibly from a Celtic word meaning "neighbor"], similar to Old Irish gair, "neighbor"; pertaining to Germany
+【同源】Germania, Germanism, Germanist, germanize, Germanomania, Germanophile
+【词根】词缀：gero-, geri-, ger-, geronto-, geront-
+来源及含义：Greek: old age, old man, old people; elder, elderly; senior citizen
+【相关】Don't confuse this gero-, ger- with another Latin ger- which means "to carry, to produce; to bear".
+【相关】
+Related "old; old age, elder" units:  
+obsolesc-; 
+presbyo-; 
+sen-; 
+veter-.
+【同源】agerasia, eugeria, geranosis, geransis, gerascophobia, gerathymia
+【词根】词缀：geus-, geuma-, -geusia, -geusic, -geustia
+来源及含义：Greek: taste
+【同源】ageusia, ageusic, allotriogeustia, ambageusia, amblygeustia, cacogeusia
+【词根】词缀：gibb-, gibbo-, gibboso-
+来源及含义：Latin: hump, humpbacked
+【同源】gibbosity, gibbous, gibbus
+【词根】词缀：giga- [GIG uh or JIG uh] , gig-
+来源及含义：Greek: "giant"; a decimal prefix used in the international metric system for measurements
+【相关】
+Related "metric" families: 
+yotta; 
+zetta;
+exa; 
+peta;
+tera;
+mega;
+kilo; 
+hecto;
+deka;
+deci; 
+centi;
+milli; 
+micro;
+nano;
+pico; 
+femto;
+atto; 
+zepto;
+yocto.
+【同源】gigabit, gigabyte, gigacycle, gigaelectronvolt, gigaflop, gigahertz7 8 9 10 11 12  
+
+
+
+8 9 10 11 12 13 
+【词根】词缀：giganto-, gigant-
+来源及含义：Greek: giant; giantlike; very large
+【同源】gigantic, gigantism, gigantoblast, gigantocyte, gigantomachia, gigantomachy
+【词根】词缀：gingivo-, gingiv-
+来源及含义：Latin: the gums of the mouth
+【同源】gingiva, gingivae, gingival, gingivalgia, gingivectomy, gingivitis
+【词根】词缀：glabr-, glab-, glabi-
+来源及含义：Latin: smooth, hairless
+【同源】deglabrate, deglabrated, glabella, glabellad, glabellae, glabellar
+【词根】词缀：glaci-
+来源及含义：Latin: ice
+【相关】Other related "ice" units: 
+crystallo; 
+grando-.
+【同源】conglaciation, deglaciation, fluvioglacial, fluvioglacial, glacial till, glacial
+【词根】词缀：gladi-
+来源及含义：Latin: sword
+【同源】gladiatary, gladiate, gladiator, gladiatorial, gladiatorian, gladiatorism
+【词根】词缀：gland-, glans-
+来源及含义：Latin: acorn; in medicine, gland, glans
+【相关】Used in medicine to mean "gland", an aggregation of cells, specialized to secrete or excrete materials not related to their ordinary metabolic needs. Also, "glans" is a general term for a small rounded mass, or glandlike body. The plural of "glans" is "glandes".
+【同源】axillary gland, biglandular, dysglandular, ecdysial gland, eglandulous, gland
+【词根】词缀：glauc-, glauco-
+来源及含义：Greek > Latin: a silvery color, or bluish green; gleaming, bright; gray
+【同源】absolute glaucoma, aglaucopsia, air-block glaucoma, antiglaucoma, glaucescent, glaucine
+【词根】词缀：glen-, glean-
+来源及含义：Latin: to make a collection; to gather what is left after the reapers
+【同源】glean, gleanable, gleaned, gleaner, gleanings, ungleaned
+【词根】词缀：glio-, gli-,  glia-, -glia
+来源及含义：Greek: glue; in medicine, the network of supporting tissue and fibers that nourishes nerve cells within the brain and spinal cord
+【相关】
+A cross reference of word units that are related, directly or indirectly, to "cell, cells, cell nucleus":
+celli-;
+cellulo-;
+cyto-;
+endothelio-;
+gameto-;
+kary-, karyo-;
+neuro-.
+【同源】angioglioma, astroglia, glia, gliacyte, glial, glial cell
+【词根】词缀：glob-, glom-
+来源及含义：Latin: a round body, a ball; round, a sphere; the earth; "sphere" came from Latin globus, "round mass, sphere"; related to gleba, "clod, soil, land". Sense of "planet earth," or a three-dimensional map of it, appeared first in 1553
+【相关】
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+agra-;
+agrest-;
+agri-;
+agro-;
+argill-;
+choro-;
+chthon-;
+epeiro-;
+geo-;
+lut-;
+myso-;
+pedo-;
+pel-;
+rhyp-;
+soil-;
+sord-;
+terr-.
+
+
+Related ball, sphere-word units: 
+hemoglobin-;
+sphero-.
+【同源】agglomerate, agglomeration, agglomerative, aglobulia, aglobuliosis, calcoglobule8 9 10 11 12 13  
+
+
+
+9 10 11 12 13 14 
+【词根】词缀：glori-, glor-
+来源及含义：Latin: great praise or honor; renown
+【同源】ad gloriam, ad majorem dei gloriam, Cineri gloria sera venit, disglorify, Fax mentis honestae gloria, Fax mentis incendium gloriae
+【词根】词缀：glosso-, gloss-, -glossa, -glossia
+来源及含义：Greek: tongue; language, speech
+【相关】Cross references of word families related directly, or indirectly, to: "talk, speak, speech; words, language; tongue, etc.": 
+cit-; 
+clam-; 
+dic-; 
+fa-; 
+-farious;
+glotto-; 
+lalo-;  
+linguo-;
+locu-; 
+logo-; 
+loqu-; 
+mythico-; 
+-ology;
+ora-;
+-phasia; 
+-phemia; 
+phon-;
+phras-;
+Quotes: Language,Part 1;
+Quotes: Language, Part 2;
+Quotes: Language,  Part 3;
+serm-;
+tongue;
+voc-.
+【同源】aglossal, aglossia, aglosstomia, ankyloglossia, ateloglossia, baryglossia
+【词根】词缀：glotto-, glot-, -glott
+来源及含义：Greek: tongue; by extension, "speech, language"
+【相关】Cross references of word families related directly, or indirectly, to: "talk, speak, speech; words, language; tongue, etc.": 
+cit-; 
+clam-; 
+dic-; 
+fa-; 
+-farious;
+glosso-; 
+lalo-;  
+linguo-;
+locu-; 
+logo-; 
+loqu-; 
+mythico-; 
+-ology;
+ora-;
+-phasia; 
+-phemia; 
+phon-;
+phras-;
+Quotes: Language,Part 1;
+Quotes: Language, Part 2;
+Quotes: Language,  Part 3;
+serm-;
+tongue;
+voc-.
+【同源】anthropoglot, chronic subglottic laryngitis, diglot, epiglottectomy, epiglottidectomy, epiglottis
+【词根】词缀：gluco-, gluc-, gluk-
+来源及含义：Greek: sweet, sweetness
+【同源】cytoglucopenia, dextroglucose, glucogenic, glucohemia, glucokinetic, glucolysis
+【词根】词缀：glut-
+来源及含义：Greek: buttock, butt, rump; muscles of the buttocks; sometimes, it means "round"
+【同源】buttock, buttocks, gluteal, gluteal nerve, gluteal reflex, gluteal region
+【词根】词缀：glut-, gluten-, glutin-
+来源及含义：Latin: glue, sticky substance which remains in flour when the starch is taken out
+【同源】glutelin, gluten, gluten bread, gluten-casein, gluten-free diet, glutenin
+【词根】词缀：glutto-, glutt-
+来源及含义：Latin: to swallow, to gulp down
+【相关】
+Related "eat, eating" word units: 
+brycho-;
+esculent-;
+esophago-;
+phago-;
+vor-.
+
+
+Cross references of word families that are related directly, or indirectly, to: "food, nutrition, nourishment":  
+alimento-;
+broma-;
+carno-;
+cibo-;
+esculent-;
+sitio-;
+tropho-;
+Eating Crawling Snacks;
+Eating: Carnivorous-Plant "Pets";
+Eating: Folivory or Leaf Eaters;
+Eating: Omnivorous.
+【同源】deglutition, englut, glut, glut, glut, glutteny
+【词根】词缀：glycer-, glycero-
+来源及含义：Greek: sweet; used in the specialized sense of "sweet, syrupy liquid"
+【同源】boroglyceride, deglycerolize, glycerine, glycerogel, glycerogelatin, glycerol
+【词根】词缀：glyco-, glyc-
+来源及含义：Greek: sweet, sugar
+【同源】aglycon, aglycositosis, boroglyceride, deglycerolize, diglycerides, glycemia
+【词根】词缀：glypto-, glypt-, -glypha, -glyph, -glyphic, -glyphous
+来源及含义：Greek: carve, carving, engraving; to hollow out; by extension, a form of writing
+【相关】This ancient Egyptian hieroglyph, the symbol of the Egyptian scribe, will take you to an explanation of   hieroglyphs for a greater understanding of these special writing symbols.
+【相关】Related "writing" units: 
+gram-;
+graph-;
+scrib-, script-.
+【同源】aglyphicate, aglyphous, bioglyphic, dactylioglyph, dactylioglyphy, dendriglyph9 10 11 12 13 14  
+
+
+
+10 11 12 13 14 15 
+【词根】词缀：gnatho-, gnath-, -gnatha, -gnathan, -gnath, -gnathia, -gnathic, -gnathous
+来源及含义：Greek: jaw
+【相关】The jaw is the name applied to the bones which contain the teeth.The two upper jaw-bones, the maxillae, are firmly attached to the other bones of the face.The lower jaw, the mandible, is shaped in a form similar to that of a horseshoe, and, after the first year of life, it consists of a single bone.It forms a hinge-joint with the squamous part (thin, plate-like section) of the temporal bone, immediately in front of the ear.Both the upper and the lower jaw-bones include deep sockets known as alveoli, which contain the roots of the teeth.
+【同源】agnathia, anisognathous, atelognathia, brachygnathia, chaetognath, cheilognathoschisis
+【词根】词缀：gno-, gnos-, gnoto-, -gnostic, -gnosia, -gnomic, -gnomonic, -gnomical, -gnomy, -gnosia, -gnostic, -gnosis
+来源及含义：Greek: know, learn, discern
+【相关】
+Inter-related  cross references, directly or indirectly, involving word units meaning "know, knowledge; learn, learning":
+cogni-;
+discip-;
+histor-;
+intellect-;
+learn, know;
+math-;
+sap-;
+sci-;
+sopho-.
+【同源】abarognosis, acognosia, ad ignorantiam, agnogenic, agnoiology, agnosia
+【词根】词缀：gon-, gonio-, -gon, -gonal, -gonally, -gony
+来源及含义：Greek: corner, bend, angle
+【同源】agonic, decagon, diagon, diagonal, dodecagon, enneagon
+【词根】词缀：-gony
+来源及含义：Greek > Latin: generation, genesis, origination; creation [Greek: gonos, -gonia > Latin: -gonia, "that which is begotten, offspring"]
+【同源】agamogony, amphigony, anthropogony, archegony, astrogony, autogony
+【词根】词缀：gony-, gon-
+来源及含义：Greek: knee
+【同源】gonarthritis, gonarthron, gonarthrotomy, gonitis, gonocampsis, gonybatia
+【词根】词缀：gov-, gover-
+来源及含义：Greek > Latin: to steer or to pilot a ship; to rule; a steersman
+【相关】From Greek, kubernan, "to steer" and is related to words beginning with cyber-. From the Greek, Latin picked it up as gubernare, and guvernator, "to steer" or "to pilot a ship" from which we also get "gubernatorial".
+【相关】Cross references of word families related directly, or indirectly, to: "master, lead, leading, ruler, ruling, govern":
+-agogic;
+agon-;
+arch-;
+-crat;
+dom-;
+magist-;
+poten-;
+regi-;
+tyran-.
+【同源】antigovernment, extragovernmental, govern, governable, governance, governess
+【词根】词缀：grad-, -grade, -gred, -gree, -gress
+来源及含义：Latin: walk, step, take steps, move around; walking or stepping
+【同源】ad eundem gradum, aggradation, aggression, aggressive, aggressively, aggressiveness
+【词根】词缀：gram-, -gram-, -gram, -grammatic, -grammatical, -grammatically, -gramme, -grammic
+来源及含义：Greek: write, writing, something written, a written record, a recording; letters; words; later, a small weight, a unit of mass in the metric system
+【相关】A unit of weight in the metric system from 1797 gramme, borrowing of French gramme, from Late Latin gramma, "small weight"; from Greek gramma, "small weight"; originally, "something written"; from the stem of graphein, "to draw, to write".
+【相关】Related "writing" word units: 
+glypto-;
+graph-;
+scrib-, script-.
+【同源】accelerogram, achillogram, acoustogram, acrogram, acronym, actinogram
+【词根】词缀：grand-
+来源及含义：Latin: large, great
+【相关】
+Related "big, large, great" words: 
+macro-;
+magni-;
+major-;
+maxi-;
+mega-;
+megalo-.
+【同源】aggrandizable, aggrandization, aggrandize, aggrandizement, aggrandizer, gramercy
+【词根】词缀：grando-, grandi-, grani-
+来源及含义：Latin: hail [ice], hail storm; sleet
+【相关】Other related "ice" units: 
+crystallo; 
+glaci-.
+【同源】grandinosus, grandinous, granineus10 11 12 13 14 15  
+
+
+
+11 12 13 14 15 
+【词根】词缀：granulo-, granul-, granuli-, gran-
+来源及含义：Latin: particle; grain, kernel
+【同源】cum grano salis, filigree, garner, grain, granary, grange
+【词根】词缀：grapho-, graph-, -graph, -graphy, -grapher, -graphia
+来源及含义：Greek: to scratch; to write, to record, to draw, to describe; that which is written or described
+【相关】As indicated at the bottom of this page, there are a significantly large number of graphic word-entry groups in this unit. Such an extensive listing is provided to show how important the grapho- element is to the English language.
+【相关】Related "writing" word units: 
+glypto-;
+gram-;
+scrib-, script-.
+【同源】abdominal aortography, accelerograph, acoustic agraphia, acrography, actinograph, actinography
+【词根】词缀：grat-, gra-, grac-
+来源及含义：Latin: beloved, pleasing, dear, agreeable; grateful, thankful, pleased
+【同源】agree, agreeable, agreeableness, agreeably, agreement, congratulate
+【词根】词缀：grav-, griev-
+来源及含义：Latin: heavy, weighty
+【同源】aggravate, aggravated, aggravation, aggrieve, aggrieved, aggrievedness
+【词根】词缀：gravido-, gravid-
+来源及含义：Latin: pregnant, pregnancy [from grav-, heavy]
+【相关】Related "pregnant, pregnancy" word units:
+cyesio-, cyo-;
+ cyo-.
+【同源】decigravida, geodetic gravimetry, gravid, gravida, gravidic, gravidism
+【词根】词缀：greg-, -gregate, -gregation
+来源及含义：Latin: flock; assemble; gather; come together, get together
+【相关】
+Related "together" units: 
+com-;
+
+inter-;
+struct-.
+【同源】aggregate, aggregate, aggregate, aggregation, congregant, congregate
+【词根】词缀：gurgit-, gurg-
+来源及含义：Latin: gurgitare, "to flood"; gurges, gurgitis, "the gullet, a gulf, the sea"; to surge, to flood; pour, glut, gorge; whirlpool, engulf; boiling liquid
+【同源】aortic regurgitation, cardiac regurgitation, disapproving regurgitation, duodenal regurgitation, gurging, gurgitate
+【词根】词缀：gust-, gusti-
+来源及含义：Latin: taste, tasting
+【同源】ad gustum, chemical gustometry, De gustibus non est disputandum, degust, degustate, degustation
+【词根】词缀：gutt-, gutti-, guttu-
+来源及含义：Latin: drop
+【同源】gutta, guttate, guttatim, guttation, gutter, guttering
+【词根】词缀：guttur-, gutturo-
+来源及含义：Latin: throat
+【相关】
+Here is a special article about the 
+Neck and Throat.
+【相关】
+Cross references related  to "neck, throat" word families: 
+cervic-;
+coll-;
+esophag-;
+laryng-;
+nuch-;
+trachel-.
+【同源】guttur, guttural, guttural pulse, gutturalism, gutturalize, gutturize11 12 13 14 15  
+
+
+
+12 13 14 15 
+【词根】词缀：gymno-, gymn-
+来源及含义：Greek: unclothed, bare, unclad, disrobed, undressed; naked, nude
+【相关】
+A related "unclothed; uncovered" word family: 
+nudo-, nudi-.
+【同源】gymnanthous, gymnasiarch, gymnasiast, gymnasium, gymnast, gymnastic
+【词根】词缀：gyno-, gyn-, gynaeco-, gyneco-, gyne-, -gynia, -gynic, gynec-, -gynist, -gynous, -gyny
+来源及含义：Greek: woman, women, female, females
+【相关】Many of the words from these Greek elements refer to botanic or other biological nomenclature.
+【相关】
+Related "woman, female" units: 
+anilo-; 
+fem-; 
+mulie-;
+virgo-.
+【同源】acrogynous, adynamogynous, agynary, agynous, androgygreed, androgynoid
+【词根】词缀：gyp-, gip-
+来源及含义：Hindu: references to a wandering race of people who have called themselves and their language Romany
+【同源】gyp joint, gyp, gypped, gypper, gypping, Gypsy
+【词根】词缀：gyro-, gyr-
+来源及含义：Greek: turning, spinning, whirling, bend, circular motion; originally, "circle, curved, ring"
+【相关】
+Related "around, round, surrounding" units: 
+ambi-;
+ampho-; 
+circ-;
+circum-;
+cyclo-, -cycle;
+peri-.
+
+
+Inter-related  cross references involving word units meaning "bend, curve, turn":
+diversi-;
+diverticul-;
+flect-, flex-;
+meand-;
+-plex;
+streph-;
+stroph-;
+tors-;
+tropo-;
+verg-;
+vers-;
+volv-.
+【同源】autogyro, dextrogyral, dextrogyrate, dextrogyration, gyral, gyrate12 13 14 15  
+
+
